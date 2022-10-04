@@ -42,8 +42,8 @@ Params:
   sponsorContact: "contact@geometryprocessing.org"
   #submissionUrl: "https://srmv2.eg.org/COMFy/Conference/SGP_2022"
   events: 
-    #- id: "graduate_school"
-      #date: "July 2-3, 2022"
+    - id: "graduate_school"
+      date: "July 1-2, 2023"
     - id: "conference"
       date: "July 3-5, 2023"
   #sponsors:
@@ -52,23 +52,21 @@ Params:
      #items:
        #- name: "Geometry Factory"
          #logo: "images/geometryfactory-logo.png"
-  importantDates:
-    - id: TBA
-      date: "TBA"
-#    - id: abstract_submission
-#      date: "April 7, 2022, 23:59 UTC"
-#    - id: paper_submission
-#      date: "April 11, 2022, 23:59 UTC"
-#    - id: notification_of_acceptance
-#      date: "May 30, 2022"
-#    - id: revised_version_due
-#      date: "June 10, 2022, 23:59 UTC"
-#    - id: camera_ready_due
-#      date: "June 20, 2022, 23:59 UTC"
-#    - id: graduate_school
-#      date: "July 2-3, 2022"
-#    - id: conference
-#      date: "July 4–6, 2022"
+  importantDates:    
+   - id: abstract_submission
+     date: "April 7, 2023, 23:59 UTC"
+   - id: paper_submission
+     date: "April 12, 2023, 23:59 UTC"
+   - id: notification_of_acceptance
+     date: "May 31, 2023"
+   - id: revised_version_due
+     date: "June 9, 2023, 23:59 UTC"
+   - id: camera_ready_due
+     date: "June 20, 2023, 23:59 UTC"
+   - id: graduate_school
+     date: " July 1-2, 2023"
+   - id: conference
+     date: "July 3–7, 2023"
   chairs:
 #  - id: conference_co_chairs
 #    items: 
@@ -76,27 +74,27 @@ Params:
 #        email: "example@example.edu"
 #        affiliation: "University of Example"
   - id: technical_program_co_chairs
-    #items: 
-      #- name: "Marcel Campen"
-        #email: ""
-        #affiliation: "(Osnabrück University)"
-      #- name: "Michela Spagnuolo"
-        #email: ""
-        #affiliation: "(CNR)"
+    items: 
+      - name: "Pooran Memar"
+        email: ""
+        affiliation: "(LIX, Ecole Polytechnique)"
+      - name: " Justin Solomon"
+        email: ""
+        affiliation: "(MIT)"
   - id: graduate_school_co_chairs
-    #items: 
-      #- name: "Ruizhen Hu"
-        #email: ""
-        #affiliation: "(Shenzhen University)"
-      #- name: "Teseo Schneider"
-        #email: ""
-        #affiliation: "(University of Victoria)"
+    items: 
+      - name: "Rana Hanocka"
+        email: ""
+        affiliation: "(University of Chicago)"
+      - name: "Nico Pietroni"
+        email: ""
+        affiliation: "(University of Technology Sydney)"
 
   - id: awards_chair
-    #items: 
-      #- name: "Marc Alexa"
-        #email: "firstname.lastname at tu-berlin.de"
-        #affiliation: "Technische Universität Berlin"
+    items: 
+      - name: "Marc Alexa"
+        email: "firstname.lastname at tu-berlin.de"
+        affiliation: "Technische Universität Berlin"
   committees:
     - id: technical_papers_committee
       members:
