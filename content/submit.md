@@ -4,7 +4,7 @@ layout: "submit"
 type: "page"
 menu: submit
 ---
-<!--
+
 ## Call For Technical Papers
 
 We invite submissions related to, but not limited to, the following topics:
@@ -59,7 +59,8 @@ The dataset papers will be published similarly to the technical papers, in the s
 
 
 
-Submissions via: https://srmv2.eg.org/COMFy/Conference/SGP_2022
+Submissions via: TBA
+
 ### Typesetting
 
 Please format your article using the template for SGP available on the SRMv2 website: https://srmv2.eg.org. SGP 2022 does not impose a strict maximum length for submitted papers. However, Computer Graphics Forum and SGP 2022 recommend that research papers be up to 10 pages (including all images, but excluding references). Papers should only be as long as their content would justify. Reviewers might rate a submission lower if it is perceived as being unnecessarily long. Authors are encouraged to use supplementary documents to provide extra content.
@@ -100,7 +101,7 @@ one of the leading journals for researchers, developers and users of Computer
 Graphics in both commercial and academic environment. It has one of the highest
 impact factors in the field, and it is indexed by all major databases;
 additionally, the electronic version of all accepted work will also be indexed
-and accessible by the EG Digital Library.-->
+and accessible by the EG Digital Library.
 
 <!----------------------------
 ## Instructions for Oral Presentations
