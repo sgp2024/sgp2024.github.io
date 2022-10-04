@@ -63,7 +63,7 @@ Submissions via: TBA
 
 ### Typesetting
 
-Please format your article using the template for SGP available on the SRMv2 website: https://srmv2.eg.org. SGP 2022 does not impose a strict maximum length for submitted papers. However, Computer Graphics Forum and SGP 2022 recommend that research papers be up to 10 pages (including all images, but excluding references). Papers should only be as long as their content would justify. Reviewers might rate a submission lower if it is perceived as being unnecessarily long. Authors are encouraged to use supplementary documents to provide extra content.
+Please format your article using the template for SGP available on the SRMv2 website: https://srmv2.eg.org. SGP does not impose a strict maximum length for submitted papers. However, Computer Graphics Forum and SGP recommend that research papers be up to 10 pages (including all images, but excluding references). Papers should only be as long as their content would justify. Reviewers might rate a submission lower if it is perceived as being unnecessarily long. Authors are encouraged to use supplementary documents to provide extra content.
 
 ### Anonymization
 
