@@ -75,8 +75,8 @@
   --logoMaxWidth: 500px;
   
   --planet-background: #c2c2c2;
-  --planet-menu-bg: #3580db;
-  --planet-line-section-1: #3580db;
+  --planet-menu-bg: #517f41;
+  --planet-line-section-1: #517f41;
   --planet-line-section-2: #da4646;
   --planet-line-section-3: #219228;
 }
@@ -428,7 +428,7 @@ h2:nth-of-type(3n+0)
 
 div#events
 {
-  background-color: #c7aa68;
+  background-color: #d34c53;
   color: #f3f3f3;
   font-family: var(--headerfont);
   font-size: 2em;
