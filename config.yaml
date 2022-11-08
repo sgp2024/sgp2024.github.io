@@ -75,9 +75,9 @@ Params:
 #        affiliation: "University of Example"
   - id: technical_program_co_chairs
     items: 
-      - name: "Pooran Memar"
+      - name: "Pooran Memari"
         email: ""
-        affiliation: "(LIX, Ecole Polytechnique)"
+        affiliation: "(CNRS-LIX, Ecole Polytechnique)"
       - name: " Justin Solomon"
         email: ""
         affiliation: "(MIT)"
