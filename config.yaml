@@ -68,11 +68,14 @@ Params:
    - id: conference
      date: "July 3–7, 2023"
   chairs:
-#  - id: conference_co_chairs
-#    items: 
-#      - name: "Name Name"
-#        email: "example@example.edu"
-#        affiliation: "University of Example"
+  - id: conference_co_chairs
+    items: 
+      - name: "Silvia Biasotti"
+        email: "silvia@ge.imati.cnr.it"
+        affiliation: "IMATI"
+      - name: "Lin Gao"
+        email: "gaolin@ict.ac.cn"
+        affiliation: "Chinese Academy of Sciences"
   - id: technical_program_co_chairs
     items: 
       - name: "Pooran Memari"
