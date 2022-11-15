@@ -72,10 +72,10 @@ Params:
     items: 
       - name: "Silvia Biasotti"
         email: "silvia@ge.imati.cnr.it"
-        affiliation: "IMATI"
+        affiliation: "(IMATI)"
       - name: "Lin Gao"
         email: "gaolin@ict.ac.cn"
-        affiliation: "Chinese Academy of Sciences"
+        affiliation: "(Chinese Academy of Sciences)"
   - id: technical_program_co_chairs
     items: 
       - name: "Pooran Memari"
@@ -97,7 +97,7 @@ Params:
     items: 
       - name: "Marc Alexa"
         email: "firstname.lastname at tu-berlin.de"
-        affiliation: "Technische Universität Berlin"
+        affiliation: "(Technische Universität Berlin)"
   committees:
     - id: technical_papers_committee
       members:
