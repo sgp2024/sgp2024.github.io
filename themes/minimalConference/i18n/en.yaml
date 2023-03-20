@@ -1,5 +1,7 @@
 - id: sponsors
   translation: "Sponsors"
+- id: conference_location
+  translation: "The conference will be located at the International Geometry Summit"
 - id: graduate_school
   translation: "Graduate School"
 - id: conference

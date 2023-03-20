@@ -6,7 +6,12 @@ languages:
   en:
     languageName: English
     weight: 1
-    about: "The Symposium on Geometry Processing (SGP) is the premier venue for
+    about: "
+    The Symposium on Geometry Processing  will co-locate in a joint event of the major conferences in applied geometry at
+    the **[International Geometry Summit 2023 (IGS’23)](https://igs2023.imati.cnr.it/)**.  
+
+
+    The Symposium on Geometry Processing (SGP) is the premier venue for
     disseminating new research ideas and cutting-edge results in geometry
     processing. In this research area, concepts from mathematics, computer science,
     and engineering are studied and applied to offer new insights and design
@@ -42,6 +47,7 @@ Params:
   sponsorContact: "contact@geometryprocessing.org"
   #submissionUrl: "https://srmv2.eg.org/COMFy/Conference/SGP_2022"
   events: 
+    - id: "conference_location"
     - id: "graduate_school"
       date: "July 1-2, 2023"
     - id: "conference"

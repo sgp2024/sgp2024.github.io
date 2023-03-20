@@ -17,7 +17,7 @@
 
 
 <p id=about>
-{{ .Site.Params.about }} 
+{{ .Site.Params.about | markdownify  }} 
 </p>
 {{ .Content }}
 
