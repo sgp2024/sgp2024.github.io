@@ -45,7 +45,7 @@ menu:
       weight: 50
 Params:
   sponsorContact: "contact@geometryprocessing.org"
-  #submissionUrl: "https://srmv2.eg.org/COMFy/Conference/SGP_2022"
+  submissionUrl: "https://srmv2.eg.org/COMFy/Conference/SGP_2023"
   events: 
     - id: "conference_location"
     - id: "graduate_school"
