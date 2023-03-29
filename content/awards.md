@@ -4,6 +4,8 @@ layout: "simple-static"
 type: "page"
 ---
 
+Following its traditions, SGP 2023 will attribute three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a data set award designed to acknowledge the suppliers of high quality datasets used in geometry processing.
+
 <!--
 ## Best Paper 3rd Place
 
