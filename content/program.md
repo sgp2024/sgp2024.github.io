@@ -10,7 +10,7 @@ speakers:
 
 graduateSchoolCourses:
 - title: Hexmesh generation and processing
-  teaser: images/school-hexmeshing.png
+  teaser: /images/school-hexmeshing.png
   speakers:
     - name: Gianmarco Cherchi 
       affiliation: University of Cagliari
@@ -20,7 +20,7 @@ graduateSchoolCourses:
     Hexahedral meshes are a prominent volumetric mesh representation. They are largely used as computational domains for the resolution of partial differential equations for physically based simulation, making them a core ingredient of many software tools used by the automobile, naval, aerospace, medical, and geological industries, as well as for many applications in Computer Graphics and Animation. In academic research and industry, the algorithmic generation and processing of hexahedral meshes have been studied for more than 30 years now. In this course, we will introduce the topic of hexahedral meshes and focus on the most relevant techniques for hexahedral mesh generation in Computer Graphics. For each technique, we will highlight capabilities and limitations, also pointing out the associated unsolved challenges. The required background, pertaining to geometrical as well as combinatorial aspects, will be introduced along the way.
 
 - title: Dive into Neural Implicit-Explicit 3D Representations and their Applications
-  teaser: images/school-neural.png
+  teaser: /images/school-neural.png
   speakers: 
     - name: Songyou Peng
       affiliation:  ETH Zurich & MPI
@@ -28,7 +28,7 @@ graduateSchoolCourses:
     In this lecture talk, we will delve into the fascinating world of neural implicit-explicit 3D representations from a computer vision perspective. Beginning with the basics of explicit, implicit, and hybrid 3D scene representations, we will establish a foundation for understanding how these representations contribute to the field of 3D computer vision. We will then explore the recent evolution of hybrid implicit-explicit 3D representations in 3D reconstruction, neural rendering, and visual SLAM, discussing seminal works that have significantly advanced the state-of-the-art. In light of the recent hype surrounding ChatGPT, we will also briefly examine how large language models can be combined with implicit and explicit representations to enable new possibilities and innovative solutions in computer vision research
   
 - title: Topology-Aware Reconstruction
-  teaser: images/school-topology.png
+  teaser: /images/school-topology.png
   speakers:
     - name: Tao Ju
       affiliation: Washington University in St. Louis
