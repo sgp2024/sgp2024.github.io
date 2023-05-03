@@ -9,7 +9,39 @@ speakers:
   
 
 graduateSchoolCourses:
+- title: Hexmesh generation and processing
+  teaser: images/school-hexmeshing.png
+  speakers:
+    - name: Gianmarco Cherchi 
+      affiliation: University of Cagliari
+    - name: Marco Livesu
+      affiliation: IMATI
+  abstract: 
+    Hexahedral meshes are a prominent volumetric mesh representation. They are largely used as computational domains for the resolution of partial differential equations for physically based simulation, making them a core ingredient of many software tools used by the automobile, naval, aerospace, medical, and geological industries, as well as for many applications in Computer Graphics and Animation. In academic research and industry, the algorithmic generation and processing of hexahedral meshes have been studied for more than 30 years now. In this course, we will introduce the topic of hexahedral meshes and focus on the most relevant techniques for hexahedral mesh generation in Computer Graphics. For each technique, we will highlight capabilities and limitations, also pointing out the associated unsolved challenges. The required background, pertaining to geometrical as well as combinatorial aspects, will be introduced along the way.
+
+- title: Dive into Neural Implicit-Explicit 3D Representations and their Applications
+  teaser: images/school-neural.png
+  speakers: 
+    - name: Songyou Peng
+      affiliation:  ETH Zurich & MPI
+  abstract:
+    In this lecture talk, we will delve into the fascinating world of neural implicit-explicit 3D representations from a computer vision perspective. Beginning with the basics of explicit, implicit, and hybrid 3D scene representations, we will establish a foundation for understanding how these representations contribute to the field of 3D computer vision. We will then explore the recent evolution of hybrid implicit-explicit 3D representations in 3D reconstruction, neural rendering, and visual SLAM, discussing seminal works that have significantly advanced the state-of-the-art. In light of the recent hype surrounding ChatGPT, we will also briefly examine how large language models can be combined with implicit and explicit representations to enable new possibilities and innovative solutions in computer vision research
   
+- title: Topology-Aware Reconstruction
+  teaser: images/school-topology.png
+  speakers:
+    - name: Tao Ju
+      affiliation: Washington University in St. Louis
+  abstract:
+    Surface reconstruction from raw and imperfect inputs often results in shapes containing unwanted topological features, such as islands, handles, and voids. These errors are detrimental to downstream geometric processing tasks such as simplification, parameterization, and simulation. Topological errors can either be removed after the shape has been reconstructed (known as topological repair) or prevented during reconstruction by imposing topological constraints. This course will introduce fundamental concepts of topology that are relevant to surface reconstruction, review existing methods for topology repair and topology-constrained reconstruction, and describe several selected methods in detail. The course will end with a discussion of open problems in this area that await future research.
+                
+- title: Geometry Processing with Implicit Surfaces
+  speakers:
+    - name: David M. Palmer
+      affiliation: MIT
+  abstract:
+    The recent popularity of neural implicit surfaces has renewed interest in implicit representations of geometry. In this session, we will dive into the world of implicit surfaces, both classical and neural. First, we will look at the use of implicit surfaces in surface reconstruction from point clouds. We will explore how a classical method, Poisson surface reconstruction, has recently been reinterpreted in a Gaussian process framework. Then we will take a look at recent neural implicit methods for surface reconstruction and the architecture and regularization choices they make. We will take a brief detour to look at NeRF and its descendants and their relationship to neural implicit models. The success of neural implicit representations has driven an interest in building a complete geometry processing pipeline around these representations. We will look at some attempts in this direction and conclude with some reflections about the future of the field.           
+                
 paperSessions: 
  
 ---  
@@ -21,6 +53,17 @@ The complete program schedule can be downloaded [here.](/images/SGP_2022_Program
 
 paperUSB: https://cloud.fraunhofer.at/s/sY2mezd4NgRRoPM/download/USB-SGP2021.zip
 paperURL: https://diglib.eg.org/handle/10.2312/2633079     
+
+        affiliation: Università degli Studi di Cagliari   
+      - name: Marco Livesu
+        affiliation: IMATI
+        
+
+    teaser: /images/default_thumbnail.jpg
+
+    abstract: Hexahedral meshes are a prominent volumetric mesh representation. They are largely used as computational domains for the resolution of partial differential equations for physically based simulation, making them a core ingredient of many software tools used by the automobile, naval, aerospace, medical, and geological industries, as well as for many applications in Computer Graphics and Animation. In academic research and industry, the algorithmic generation and processing of hexahedral meshes have been studied for more than 30 years now. In this course, we will introduce the topic of hexahedral meshes and focus on the most relevant techniques for hexahedral mesh generation in Computer Graphics. For each technique, we will highlight capabilities and limitations, also pointing out the associated unsolved challenges. The required background, pertaining to geometrical as well as combinatorial aspects, will be introduced along the way.
+    
+    
 
 speakers: 
 - name: Angela Dai
@@ -50,22 +93,7 @@ speakers:
 
     
 graduateSchoolCourses:
- - title: Deep Learning on Point Clouds
-    teaser: /images/default_thumbnail.jpg
-    speakers:
-      - name: Hao Su
-        url: https://cseweb.ucsd.edu/~haosu/
-        affiliation: UC San Diego
-    abstract: |
-                Point cloud is an important type of geometric data structure. They are simple and unified structures that avoid the combinatorial irregularities and complexities of meshes. These properties make point clouds widely used for 3D reconstruction or visual understanding applications, such as AR, autonomous driving, and robotics. This course will teach how we apply deep learning methods to point cloud data. We will cover the following topics in this short course: 
-                
-                    1) basic neural architectures to process point cloud as input or to generate point cloud as output
-                    2) scene-level understanding of static and dynamic point clouds 
-                    3) point cloud based inverse graphics 
-                    4) learning to convert point cloud to other 3D representations 
-                    5) learning to map point cloud with data in other modalities (images, languages)
-                    
-                We will end the course with some open problems.
+ 
   - title: Learning to Represent 3D Shapes with Programs
     teaser: /images/default_thumbnail.jpg
     speakers:
