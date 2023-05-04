@@ -9,6 +9,49 @@ speakers:
   
 
 graduateSchoolCourses:
+- title: Functional Correspondence from Discrete Geometry to Learning
+  teaser: /images/school-discrete.png
+  speakers:
+    - name: Riccardo Marin 
+      affiliation: University of Tuebingen
+    - name: Emanuele Rodola
+      affiliation: GLADIA
+  abstract:
+     Geometry processing is a vital component for solving 3D shape-matching problems that have significant relevance in enabling various downstream tasks like artistic designs, CAD modeling, and medical analysis. With the advent of data-driven solutions, flexible alignment techniques have become essential tools to unleash the potential of deep learning methods. This tutorial introduces the Functional Maps paradigm, one of the main frameworks for the past decade. We will explain the main concepts of this elegant and flexible framework on graphs, and then develop the necessary tools for triangular mesh cases. We will review the crucial steps of this long-standing literature, from its inception to the advent of geometric deep learning. Additionally, we will highlight the latest and most promising research directions, giving participants a comprehensive understanding of the current state-of-the-art in this field.  
+      
+- title: Hands-On Introduction to FEM in Python
+  teaser: /images/school-Python.png
+  speakers:
+    - name: Teseo Schneider
+      affiliation: University of Victoria
+  abstract:
+      The numerical solution of partial differential equations (PDEs) is ubiquitous in computer graphics and engineering applications, ranging from the computation of UV maps and skinning weights to the simulation of elastic deformations, fluids, and light scattering. The finite element method (FEM) is the most commonly used discretization of PDEs due to its generality and rich selection of off-the-shelf commercial implementations. In this course, we will implement a FE solver in 1D for the Laplace equation from scratch using only Numpy. We will briefly derive the necessary theory and quickly move into live coding the solver. At the end of the course, you will have a basic applied understanding of how the FEM works and how to extend the current code to higher dimensions and more complicated physics. 
+
+- title: Computational Design of Deployable Structures
+  teaser: /images/school-structures.png
+  speakers:
+    - name: Julian Panetta
+      affiliation: UCDavis
+  abstract:
+    Structures that transform from compact configurations (which are simpler to manufacture and transport) to 3D shapes with specific forms and functions have important advantages for applications like emergency shelters, temporary event spaces, medical devices, and satellite antennas. However, designing such structures is difficult, involving interesting technical challenges like controlling the highly nonlinear large-deformation behavior of elastic beam and membrane structures. This course presents computational techniques for tackling inverse design problems in this space. It will cover shape optimization using differentiable physics simulation and show various strategies for accelerating these optimization algorithms. It will also introduce two-scale design algorithms, where the low-level details of the physical system are abstracted using homogenization to obtain a coarsened design problem that can be solved robustly by traditional computer graphics techniques like surface parametrization algorithms. Then the coarsened solution is "de-homogenized" to a full-scale structure and fine-tuned with shape optimization.
+
+- title: A quick journey into geometry processing
+  teaser: /images/school-journey.png
+  speakers:
+    - name: Bruno Levy
+      affiliation: Inria
+  abstract:
+    This course is a gentle introduction to the set of notions useful in geometry processing that  I consider as the "minimal toolbox". I will illustrate the different notions with tips and tricks on how to efficiently implement them in a computer. Code and demos related to the notions that I'll present is available in Geogram (https://github.com/BrunoLevy/geogram) and Graphite (https://github.com/BrunoLevy/GraphiteThree)
+    
+- title: Connecting Language to 3D
+  teaser: /images/school-language.png
+  speakers:
+    - name : Angel Chang
+      affiliation: Simon Fraser University
+  abstract:
+    In this tutorial, we will cover recent developments in connecting language to 3D. We will discuss components in multimodal models for language and 3D data. Then we will cover applications such as localizing and describing objects in 3D scenes, and text-to-3D shape and scene generation. We will conclude with open research challenges and opportunities in this emerging research direction.
+
+
 - title: Hexmesh generation and processing
   teaser: /images/school-hexmeshing.png
   speakers:
@@ -36,6 +79,7 @@ graduateSchoolCourses:
     Surface reconstruction from raw and imperfect inputs often results in shapes containing unwanted topological features, such as islands, handles, and voids. These errors are detrimental to downstream geometric processing tasks such as simplification, parameterization, and simulation. Topological errors can either be removed after the shape has been reconstructed (known as topological repair) or prevented during reconstruction by imposing topological constraints. This course will introduce fundamental concepts of topology that are relevant to surface reconstruction, review existing methods for topology repair and topology-constrained reconstruction, and describe several selected methods in detail. The course will end with a discussion of open problems in this area that await future research.
                 
 - title: Geometry Processing with Implicit Surfaces
+  teaser: /images/school-implicit.png
   speakers:
     - name: David M. Palmer
       affiliation: MIT
