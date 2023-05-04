@@ -7,6 +7,10 @@ languages:
     languageName: English
     weight: 1
     about: "
+    
+    ***SGP Graduate School Program is now available!***
+    
+    
     The Symposium on Geometry Processing (SGP)  will co-locate in a joint event of the major conferences in applied geometry at
     the **[International Geometry Summit 2023 (IGS’23)](https://igs2023.imati.cnr.it/)**.  
 
@@ -49,7 +53,7 @@ Params:
   events: 
     - id: "conference_location"
     - id: "graduate_school"
-      date: "July 1-2, 2023"
+      date: "July 1-2, 2023, (Program is now available)"
     - id: "conference"
       date: "July 3-5, 2023"
   #sponsors:
