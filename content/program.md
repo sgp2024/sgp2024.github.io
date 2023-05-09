@@ -85,7 +85,19 @@ graduateSchoolCourses:
       affiliation: MIT
   abstract:
     The recent popularity of neural implicit surfaces has renewed interest in implicit representations of geometry. In this session, we will dive into the world of implicit surfaces, both classical and neural. First, we will look at the use of implicit surfaces in surface reconstruction from point clouds. We will explore how a classical method, Poisson surface reconstruction, has recently been reinterpreted in a Gaussian process framework. Then we will take a look at recent neural implicit methods for surface reconstruction and the architecture and regularization choices they make. We will take a brief detour to look at NeRF and its descendants and their relationship to neural implicit models. The success of neural implicit representations has driven an interest in building a complete geometry processing pipeline around these representations. We will look at some attempts in this direction and conclude with some reflections about the future of the field.           
-                
+
+- title: Machine Learning for Structural Biology
+  speakers: 
+    - name: Ellen Zhong 
+      affiliation: Princeton University.
+  abstract: |
+    Over the past few years, structural biology, the study of the 3D structure or shape of proteins and other biomolecules, has been transformed by breakthroughs from machine learning algorithms. The goal of this course will be to highlight some of these recent advances and to make connections between their underlying algorithms to related methods in geometry processing. After a brief primer on proteins and the significance of their 3D structures (assuming no prior knowledge of biology), I will overview two complementary research thrusts:
+    
+    1) &bull; protein structure prediction (e.g. AlphaFold) and 
+    2) &bull; protein structure determination via 3D reconstruction of cryo-electron microscopy images. 
+    
+    Topics will include structured transformers for 3D data and implicit neural representations, respectively. A desired outcome will be to convey the unique, multimodal challenges in this highly interdisciplinary area.
+    
 paperSessions: 
  
 ---  
