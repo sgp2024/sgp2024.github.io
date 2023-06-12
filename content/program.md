@@ -121,7 +121,7 @@ graduateSchoolCourses:
     - name: Ellen Zhong
       affiliation: Princeton University
   abstract: |
-    ***July 2nd, 15:00-16:30***
+    ***July 2nd, 16:45-18:15***
   
     Over the past few years, structural biology, the study of the 3D structure or shape of proteins and other biomolecules, has been transformed by breakthroughs from machine learning algorithms. The goal of this course will be to highlight some of these recent advances and to make connections between their underlying algorithms to related methods in geometry processing. After a brief primer on proteins and the significance of their 3D structures (assuming no prior knowledge of biology), I will overview two complementary research thrusts:
     
