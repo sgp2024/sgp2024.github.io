@@ -108,7 +108,7 @@ graduateSchoolCourses:
 - title: Geometry Processing with Implicit Surfaces
   teaser: /images/school-implicit.png
   speakers:
-    - name: David M. Palmer
+    - name: David R. Palmer
       affiliation: MIT
   abstract: |
     ***July 2nd, 15:00-16:30***
