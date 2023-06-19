@@ -47,7 +47,10 @@ languages:
     It is also within walking distance from the rest of the IGS event (and one stop from the underground).
 
     
-    **The SGP will be located at the Bi.Bi Service - EventiGenova - Via XX Settembre, 41/3rd floor, 16121 Genova (GE)** "
+    **The SGP will be located at the Bi.Bi Service - EventiGenova - Via XX Settembre, 41/3rd floor, 16121 Genova (GE)**
+    
+    ___
+    "
     
     sponsorPlea: "if you like to become a sponsor of SGP 2023."
     submitNow: "Begin your submision now."
@@ -190,7 +193,7 @@ Params:
             affiliation: "Technical University of Munich"
             country: "GERMANY"
           - name: Mathieu Desbrun
-            affiliation: "École polytechnique"
+            affiliation: "Inria Paris Saclay"
             country: "France"
           - name: Tamal Dey
             affiliation: "Purdue University"
@@ -367,8 +370,8 @@ Params:
             affiliation: "University of Montreal"
             country: "CANADA"
           - name: Amir Vaxman
-            affiliation: "Utrecht University"
-            country: "The Netherlands"
+            affiliation: "The University of Edinburgh"
+            country: "UK"
           - name: Etienne Vouga
             affiliation: "UT Austin"
             country: "USA"
