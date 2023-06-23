@@ -91,7 +91,7 @@
 
 {{range .Params.paperSessions}}
   <h3 class=sessionName id={{ .name | urlize }}>{{ .name}}
-  <span class="sessionChair line">chaired by {{ .chair}}</span>
+  <!--<span class="sessionChair line">chaired by {{ .chair}}</span>-->
   </h3>
   <div class=sessionContainer>
     {{ if (isset . "youtube") }}
