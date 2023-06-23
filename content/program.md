@@ -133,10 +133,10 @@ graduateSchoolCourses:
 paperSessions: 
 - name: Meshing (Monday 10:45-12:45)
   papers:
-      - title: "PowerRTF: Power Diagram based Restricted Tangent Face for Surface Remeshing"
       - title: "HalfedgeCNN for Native and Flexible Deep Learning on Triangle Meshes"
       - title: "HexBox: Interactive Box Modeling of Hexahedral Meshes"
       - title: "Quadratic-Attraction Subdivision"
+      - title: "PowerRTF: Power Diagram based Restricted Tangent Face for Surface Remeshing"      
       
 - name: 2D Geometry (Monday 15:00-16:00)  
   papers:
@@ -188,6 +188,16 @@ paperSessions:
 
 <!-- 
 
+        authors:
+          - name: Yuyou Yao
+          - name: Jingjing Liu
+          - name: Yue Fei
+          - name: Wenming Wu
+          - name: Gaofeng Zhang
+          - name: Dong-Ming Yan
+          - name: Liping Zheng 
+          
+
 The complete program schedule can be downloaded [here.](/images/SGP_2022_Program.pdf) (The file with timestamp 2022-06-20 09:00:00 is the current one)
 
 paperUSB: https://cloud.fraunhofer.at/s/sY2mezd4NgRRoPM/download/USB-SGP2021.zip
@@ -203,33 +213,6 @@ paperURL: https://diglib.eg.org/handle/10.2312/2633079
     abstract: Hexahedral meshes are a prominent volumetric mesh representation. They are largely used as computational domains for the resolution of partial differential equations for physically based simulation, making them a core ingredient of many software tools used by the automobile, naval, aerospace, medical, and geological industries, as well as for many applications in Computer Graphics and Animation. In academic research and industry, the algorithmic generation and processing of hexahedral meshes have been studied for more than 30 years now. In this course, we will introduce the topic of hexahedral meshes and focus on the most relevant techniques for hexahedral mesh generation in Computer Graphics. For each technique, we will highlight capabilities and limitations, also pointing out the associated unsolved challenges. The required background, pertaining to geometrical as well as combinatorial aspects, will be introduced along the way.
     
     
-
-speakers: 
-- name: Angela Dai
-    url: https://www.professoren.tum.de/dai-angela
-    affiliation: Technical University of Munich
-    title: "Towards Structured Geometric Understanding for 3D Perception"
-    abstract: "Semantic perception of 3D environments has seen remarkable advances in recent years, with a significant focus on object-based understanding. We propose to learn structured, intermediary representations, such as object parts, in order to provide a robust understanding of diverse 3D geometric structures from observations of real-world environments. This can enable more effective geometric reconstruction of objects in 3D scenes, enabling inter- and intra-object reasoning, as well as establish efficient structured representations for reconstruction and tracking of objects undergoing complex deformations."
-    portrait: /images/Dai.jpg
-  - name: Ligang Liu
-    url: http://staff.ustc.edu.cn/~lgliu/
-    affiliation: University of Science and Technology of China
-    title: "Computational 3D Visual Art Design"
-    abstract: "3D visual arts are highly diverse, including sculpture, architecture, ceramics, etc., in our lives.  Traditionally, artists use their rich imagination and experience to design 3D objects to give the audience a memorable experience. The design process takes a lot of trial and error, so it is often very time-consuming. It has attracted the attention of many researchers in the community of geometry processing and computer graphics, proposing various algorithms to simplify the initial complicated design process and help artists quickly realize the art in their minds. Moreover, the advent of digital modeling and 3D printing enables artists to create more complex 3D visual artworks.  In this talk, we will show a few interesting 3D visual art works and propose automatic methods to solve various problems in the design process of these art works.  From these examples, we reveal the close connection between geometry processing techniques and various 3D visual art design problems. Moreover, we will discuss about the current research trends and provide an outlook for future research directions and solutions."
-    portrait: /images/Liu.png     
-  - name: Caitlin Mueller
-    url: http://www.caitlinmueller.com/
-    affiliation: MIT Architecture
-    title: "Geometry for design and construction of high-performance architecture"
-    abstract: "Design and construction in the built environment present significant challenges and opportunities for impact: Buildings contribute to about 40% of global carbon emissions through their materials and operations, often due to inefficiencies stemming from a lack of integration between architectural design, engineering, and construction processes.  While this disconnect has been critiqued for decades, today's emerging techniques in computation, and in particular, geometry, can allow for a new layer of interdisciplinary communication and collaboration that transforms traditional workflows and empowers novel visual languages for high-performance architecture.  In this talk, Mueller will share recent work that contributes to this goal, demonstrating new techniques for computational design that integrate engineering principles and sustainability goals without overriding creative autonomy, and new fabrication methods that can materialize efficient geometries economically.  In particular, the talk will demonstrate how techniques developed in geometry processing and related fields can empower significant innovation in architectural domains, and will propose emerging problem spaces and applications for future geometry research."  
-    portrait: /images/Mueller.png      
-  - name: Daniele Panozzo
-    url: https://cims.nyu.edu/gcl/daniele.html
-    affiliation: New York University
-    title: "Robust Geometry Processing for Physical Simulation"
-    abstract: "The numerical solution of partial differential equations (PDE) is ubiquitously used for physical simulation in scientific computing, computer graphics, and engineering. Ideally, a PDE solver should be opaque: the user provides as input the domain boundary, boundary conditions, and the governing equations, and the code returns an evaluator that can compute the value of the solution at any point of the input domain. This is surprisingly far from being the case for all existing open-source or commercial software, despite the research efforts in this direction and the large academic and industrial interest. To a large extent, this is due to lack of robustness and generality in the geometry processing algorithms used to convert raw geometrical data into a format suitable for a PDE solver. I will discuss the limitations of the current state of the art, and present a proposal for an integrated pipeline, considering data acquisition, meshing, basis design, and numerical optimization as a single challenge, where tradeoffs can be made between different phases to increase automation and efficiency. I will demonstrate that this integrated approach offers many advantages, while opening exciting new geometry processing challenges, and that a fully opaque meshing and analysis solution is already possible for heat transfer and elasticity problems with contact. I will present a set of applications enabled by this approach in reinforcement learning for robotics, force measurements in biology, shape design in mechanical engineering, stress estimation in biomechanics, and simulation of deformable objects in graphics."
-    portrait: /images/Panozzo.jpg
-
     
     
 paperSessions: 
