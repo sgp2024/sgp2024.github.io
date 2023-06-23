@@ -131,7 +131,58 @@ graduateSchoolCourses:
     Topics will include structured transformers for 3D data and implicit neural representations, respectively. A desired outcome will be to convey the unique, multimodal challenges in this highly interdisciplinary area.
                 
 paperSessions: 
- 
+- name: Meshing (Monday 10:45-12:45)
+  papers:
+      - title: "PowerRTF: Power Diagram based Restricted Tangent Face for Surface Remeshing"
+      - title: "HalfedgeCNN for Native and Flexible Deep Learning on Triangle Meshes"
+      - title: "HexBox: Interactive Box Modeling of Hexahedral Meshes"
+      - title: "Quadratic-Attraction Subdivision"
+      
+- name: 2D Geometry (Monday 15:00-16:00)  
+  papers:
+      - title: "Singularity-Free Frame Fields for Line Drawing Vectorization"       
+      - title: "Variational Pruning of Medial Axes of Planar Shapes"        
+
+      
+- name: Details on surfaces (Monday 16:30-18:00)
+  papers:
+      - title: "Deep Deformation Detail Synthesis for Thin Shell Models"  
+      - title: "Graph Simulation for Skin Micro Wrinkles"  
+      - title: "A Shape Modulus for Fractal Geometry Generation"  
+      
+- name: Surface Reconstruction (Tuesday 10:45-12:45)   
+  papers:
+      - title: "Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees"    
+      - title: "Poisson Manifold Reconstruction - Beyond Co-dimension One"  
+      - title: "TopoNet: Topology Learning for 3D Reconstruction of Objects of Arbitrary Genus"  
+      - title: "ANISE: Assembly-based Neural Implicit Surface reconstruction"        
+      
+- name: Deformation (Tuesday 15:00-16:00)  
+  papers:
+      - title: "ARAP Revisited: Discretizing the Elastic Energy using Intrinsic Voronoi Cells" 
+      - title: "Maximum Likelihood Coordinates"  
+
+- name: Point clouds and Scenes (Tuesday 16:30-18:00)
+  papers:
+      - title: "Cross-Shape Attention for Part Segmentation of 3D Point Clouds" 
+      - title: "Lightweight Curvature Estimations on Point Clouds with Randomized Corrected Curvature Measures"  
+      - title: "Factored Neural Representation for Scene Understanding" 
+      
+- name: Shape Correspondence (Wednesday 10:45-12:45)  
+  papers:
+      - title: "Attention And Positional Encoding Are (Almost) All You Need For Shape Matching" 
+      - title: "Partial Matching of Non rigid Shapes by Learning Piecewise Smooth Functions"  
+      - title: "BPM: Blended Piecewise Mobius Maps"       
+      - title: "VOLMAP: a Large Scale Benchmark for Volume Mappings to Simple Base Domains"        
+      
+- name: Representation and Learning (Wednesday 16:30-18:00)  
+  papers:
+      - title: "Neural Representation of Open Surfaces" 
+      - title: "3D Keypoint Estimation using Implicit Representation Learning"  
+      - title: "3D Generative Model Latent Disentanglement via Local Eigenprojection"          
+      
+      
+      
 ---  
 
 
