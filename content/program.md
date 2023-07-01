@@ -135,83 +135,85 @@ paperSessions:
   papers:
       - title: "HalfedgeCNN for Native and Flexible Deep Learning on Triangle Meshes"
         authors:
-          - name: Marcel Campen
-          - name: Ingmar Ludwig
           - name: Daniel Tyson
+          - name: Ingmar Ludwig        
+          - name: Marcel Campen
       - title: "HexBox: Interactive Box Modeling of Hexahedral Meshes"
         authors:
+          - name: Francesco Zoccheddu          
           - name: Enrico Gobbetti
           - name: Marco Livesu
-          - name: Gianmarco Cherchi
           - name: Nico Pietroni
-          - name: Francesco Zoccheddu
+          - name: Gianmarco Cherchi                    
       - title: "Quadratic-Attraction Subdivision"
         authors:
-          - name: Jorg Peters
           - name: Kestutis Karciauskas
+          - name: Jorg Peters          
       - title: "PowerRTF: Power Diagram based Restricted Tangent Face for Surface Remeshing"  
         authors:
-          - name: Dongming Yan
           - name: Yuyou Yao
-          - name: Liping Zheng
-          - name: Wenming Wu
           - name: Jingjing Liu
           - name: Yue Fei
+          - name: Wenming Wu
           - name: Gaofeng Zhang
+          - name: Dongming Yan          
+          - name: Liping Zheng
 
 - name: 2D Geometry (Monday 15:00-16:00)  
   papers:
       - title: "Singularity-Free Frame Fields for Line Drawing Vectorization"      
         authors:
+          - name: Olga Guțan        
+          - name: Shreya Hegde         
+          - name: Erick Jimenez Berumen          
           - name: Mikhail Bessmeltsev
-          - name: Olga Guțan
           - name: Edward Chien
-          - name: Shreya Hegde
-          - name: Erick Jimenez Berumen
       - title: "Variational Pruning of Medial Axes of Planar Shapes"   
         authors:
+          - name: Peter Rong           
           - name: Tao Ju
-          - name: Peter Rong                             
-      
+
 - name: Details on surfaces (Monday 16:30-18:00)
   papers:
       - title: "Deep Deformation Detail Synthesis for Thin Shell Models"  
         authors:
-          - name: Yu-Kun Lai 
-          - name: Juntao YE
-          - name: Lin Gao
-          - name: Xiaopeng Zhang
-          - name: Shibiao Xu
+          - name: Lan Chen     
+          - name: Lin Gao   
           - name: Jie Yang
-          - name: Lan Chen                                                                                                                                                                              
-      - title: "Graph Simulation for Skin Micro Wrinkles"  
+          - name: Shibiao Xu
+          - name: Juntao Ye
+          - name: Xiaopeng Zhang          
+          - name: Yu-Kun Lai 
+                                                                                                                                                                           
+      - title: "Graph-Based Synthesis for Skin Micro Wrinkles"  
         authors:
-          - name: Derek Bradley
-          - name: Paulo Gotardo
-          - name: Gaspard Zoss
           - name: Sebastian Weiss
-          - name: Prashanth Chandran
           - name: Jonathan Moulin
+          - name: Prashanth Chandran    
+          - name: Gaspard Zoss    
+          - name: Paulo Gotardo          
+          - name: Derek Bradley
+
       - title: "A Shape Modulus for Fractal Geometry Generation"  
         authors:
+          - name: Alexa Schor        
           - name: Theodore Kim
-          - name: Alexa Schor
+ 
                                          
 - name: Surface Reconstruction (Tuesday 10:45-12:45)   
   papers:
       - title: "Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees"    
         authors:
-          - name: Pierre Alliez
-          - name: Mael Rouxel-Labbe
           - name: Daniel Zint
-          - name: Nissim Maruani
+          - name: Nissim Maruani         
+          - name: Mael Rouxel-Labbe
+          - name: Pierre Alliez          
       - title: "Poisson Manifold Reconstruction - Beyond Co-dimension One"  
         authors:
           - name: Maximilian Kohlbrenner
           - name: Singchun Lee
           - name: Marc Alexa
           - name: Misha Kazhdan
-      - title: "TopoNet: Topology Learning for 3D Reconstruction of Objects of Arbitrary Genus"  
       - title: "ANISE: Assembly-based Neural Implicit Surface reconstruction"  
         authors:      
           - name: Dmitry Petrov
@@ -228,68 +230,71 @@ paperSessions:
           - name: Marc Alexa
       - title: "Maximum Likelihood Coordinates"  
         authors:      
+          - name: Qingjun Chang   
+          - name: Chongyang Deng          
           - name: Kai Hormann
-          - name: Chongyang Deng
-          - name: Qingjun Chang
       
 - name: Point clouds and Scenes (Tuesday 16:30-18:00)
   papers:
       - title: "Cross-Shape Attention for Part Segmentation of 3D Point Clouds" 
-        authors:      
+        authors:    
+          - name: Marios Loizou        
+          - name: Siddhant Garg   
+          - name: Dmitrii Petrov          
           - name: Melinos Averkiou
           - name: Evangelos Kalogerakis
-          - name: Marios Loizou      
-          - name: Dmitrii Petrov
-          - name: Siddhant Garg
       - title: "Lightweight Curvature Estimations on Point Clouds with Randomized Corrected Curvature Measures"  
         authors:      
+          - name: Jacques-Olivier Lachaud       
+          - name: David Coeurjolly  
+          - name: Céline Labart   
+          - name: Pascal Romon          
           - name: Boris Thibert
-          - name: Jacques-Olivier Lachaud
-          - name: David Coeurjolly      
-          - name: Pascal Romon
-          - name: Céline Labart
       - title: "Factored Neural Representation for Scene Understanding" 
-        authors:      
+        authors:     
+          - name: Yu-Shiang Wong        
           - name: Niloy Mitra
-          - name: Yu-Shiang Wong
       
 - name: Shape Correspondence (Wednesday 10:45-12:45)  
   papers:
       - title: "Attention And Positional Encoding Are (Almost) All You Need For Shape Matching" 
-        authors:      
+        authors:     
+          - name: Alessandro Raganato      
+          - name: Gabriella Pasi       
           - name: Simone Melzi
-          - name: Alessandro Raganato
-          - name: Gabriella Pasi
+
       - title: "Partial Matching of Non rigid Shapes by Learning Piecewise Smooth Functions"  
-        authors:      
+        authors:   
+          - name: David Bensaid   
+          - name: Noam Rotstein       
+          - name: Nelson Goldenstein          
           - name: Ron Kimmel
-          - name: David Bensaid
-          - name: Noam Rotstein
-          - name: Nelson Goldenstein
       - title: "BPM: Blended Piecewise Mobius Maps"  
-        authors:      
+        authors:     
+          - name: Shir Rorberg    
+          - name: Amir Vaxman          
           - name: Mirela Ben-Chen
-          - name: Amir Vaxman
-          - name: Shir Rorberg
       - title: "VOLMAP: a Large Scale Benchmark for Volume Mappings to Simple Base Domains"        
         authors:      
+          - name: Gianmarco Cherchi        
           - name: Marco Livesu
-          - name: Gianmarco Cherchi
+ 
           
 - name: Representation and Learning (Wednesday 16:30-18:00)  
   papers:
       - title: "Neural Representation of Open Surfaces" 
         authors:      
+          - name: Thor Christiansen        
           - name: Jakob Andreas Bærentzen
+          - name: Rasmus Paulsen          
           - name: Morten Rieger Hannemose
-          - name: Rasmus Paulsen
-          - name: Thor Christiansen
+
       - title: "3D Keypoint Estimation using Implicit Representation Learning"  
-        authors:      
+        authors:   
+          - name: Xiangyu Zhu       
+          - name: Dong Du  
+          - name: Haibin Huang          
           - name: Chongyang Ma
-          - name: Dong Du
-          - name: Haibin Huang
-          - name: Xiangyu Zhu
           - name: Xiaoguang Han
       - title: "3D Generative Model Latent Disentanglement via Local Eigenprojection"      
         authors:      
