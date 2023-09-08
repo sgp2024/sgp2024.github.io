@@ -6,53 +6,45 @@ type: "page"
 
 Following its traditions, SGP 2023 will attribute three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a data set award designed to acknowledge the suppliers of high quality datasets used in geometry processing.
 
-<!--
-## Best Paper 3rd Place
-
-Sponsored by ![adobe logo](/images/adobe.png#logo_award)
-
-**"SimJEB: Simulated Jet Engine Bracket Dataset"**  
-Eamon Whalen, Azariah Beyene, Caitlin Mueller
-
-## Best Paper 2nd Place
-
-Sponsored by ![ntopology logo](/images/ntopology.png#logo_award)
-
-**"Geodesic Distance Computation via Virtual Source Propagation"**  
-Philip Trettner, David Bommes, Leif Kobbelt
 
 ## Best Paper Award
+![Best paper award](/images/BPA.png)
 
-Sponsored by ![FRL logo](/images/frl.png#logo_award)
+Poisson Manifold Reconstruction - Beyond Co-dimension One 
 
-**"Surface Map Homology Inference"**  
-Janis Born, Patrick Schmidt, Marcel Campen, Leif Kobbelt
+Maximilian Kohlbrenner, Singchun Lee, Marc Alexa, Misha Kazhdan
+
+## Best Paper Award: Runner up
+![Best paper award_runner_up](/images/BPA-runner.png)
+
+BPM: Blended Piecewise Möbius Maps
+
+Shir Rorberg, Amir Vaxman, and Mirela Ben-Chen
+
+## Best Paper Award:  Honorable mention
+![Best paper award_honorable](/images/BPA-honorable.png)
+
+Singularity-Free Frame Fields for Line Drawing Vectorization
+
+Olga Guțan, Shreya Hegde, Erick Jimenez Berumen, Mikhail Bessmeltsev, and Edward Chien
+
 
 ## Software Award
 
 Sponsored by ![gf logo](/images/GF.png#logo_award)
 
-**"Directional"**  
-Amir Vaxman
 
-[Previous awardees.](http://awards.geometryprocessing.org/)
+![Geogram](/images/geogram_banner_2023.png)
 
-
-## Dataset Award
-
-Sponsored by ![gf logo](/images/GF.png#logo_award)
-
-**"HexaLab"**  
-Matteo Bracci, Marco Tarini, Nico Pietroni, Marco Livesu, Paolo Cignoni
-
-[Previous awardees.](http://awards.geometryprocessing.org/)
+**"[geogram](https://github.com/BrunoLevy/geogram)"**  
+Bruno Levy
 
 ## Test of Time Award
 
-**"Poisson Surface Reconstruction"**  
-Michael Kazhdan, Matthew Bolitho and Hugues Hoppe  
-_Symposium on Geometry Processing, 2006_
+**"Discrete Laplace operators: No free lunch"**  
+Max Wardetzky, Saurabh Mathur, Felix Kälberer, Eitan Grinspun
 
--->
+_Symposium on Geometry Processing, 2007_
+
 
 [Previous awardees.](http://awards.geometryprocessing.org/)
