@@ -12,10 +12,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sgp2023.github.io/awards/</guid>
-      <description>Following its traditions, SGP 2023 will attribute three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a data set award designed to acknowledge the suppliers of high quality datasets used in geometry processing.
+      <description>Following its traditions, SGP 2023 will attribute three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a test of time award.
 Best Paper Award Poisson Manifold Reconstruction - Beyond Co-dimension One
 Maximilian Kohlbrenner, Singchun Lee, Marc Alexa, Misha Kazhdan
-Best Paper Award: Runner up BPM: Blended Piecewise Möbius Maps</description>
+Best Paper Award: Runner up BPM: Blended Piecewise Möbius Maps
+Shir Rorberg, Amir Vaxman, and Mirela Ben-Chen
+Best Paper Award: Honorable mention Singularity-Free Frame Fields for Line Drawing Vectorization</description>
     </item>
     
     <item>
