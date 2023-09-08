@@ -10,21 +10,21 @@ Following its traditions, SGP 2023 will attribute three best paper awards, a sof
 ## Best Paper Award
 ![Best paper award](/images/BPA.png)
 
-Poisson Manifold Reconstruction - Beyond Co-dimension One 
+**"Poisson Manifold Reconstruction - Beyond Co-dimension One"**
 
 Maximilian Kohlbrenner, Singchun Lee, Marc Alexa, Misha Kazhdan
 
 ## Best Paper Award: Runner up
 ![Best paper award_runner_up](/images/BPA-runner.png)
 
-BPM: Blended Piecewise Möbius Maps
+**"BPM: Blended Piecewise Möbius Maps"**
 
 Shir Rorberg, Amir Vaxman, and Mirela Ben-Chen
 
 ## Best Paper Award:  Honorable mention
 ![Best paper award_honorable](/images/BPA-honorable.png)
 
-Singularity-Free Frame Fields for Line Drawing Vectorization
+**"Singularity-Free Frame Fields for Line Drawing Vectorization"**
 
 Olga Guțan, Shreya Hegde, Erick Jimenez Berumen, Mikhail Bessmeltsev, and Edward Chien
 
