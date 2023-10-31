@@ -127,11 +127,11 @@ Params:
         email: ""
         affiliation: "University of Technology Sydney"
 
-  - id: awards_chair
-    items: 
-      - name: "Marc Alexa"
-        email: "firstname.lastname at tu-berlin.de"
-        affiliation: "Technische Universität Berlin"
+#  - id: awards_chair
+#    items: 
+#      - name: "Marc Alexa"
+#        email: "firstname.lastname at tu-berlin.de"
+#        affiliation: "Technische Universität Berlin"
   committees:
     - id: technical_papers_committee
       members:
@@ -405,9 +405,9 @@ Params:
           email: "firstname.lastname at tu-berlin.de"
           affiliation: "Technische Universität Berlin"    
           country: "Germany"
-      #  - name: Name Name
-      #    affiliation: affiliation
-      #    country: "Austria"
+        - name: Daniele Panozzo
+          affiliation: "NYU"
+          country: "USA"                
     - id: steering_committee
       members: 
         - name: "Leif Kobbelt"
