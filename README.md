@@ -10,7 +10,7 @@ On your local machine, install hugo
 
 Then clone this repository
 
-    git clone https://github.com/sgp2023/sgp2023.github.io.git
+    git clone https://github.com/sgp2024/sgp2024.github.io.git
 
 Change into this directory
 
