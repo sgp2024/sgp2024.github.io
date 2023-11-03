@@ -1,6 +1,6 @@
-baseURL: "https://sgp2023.github.io/"
+baseURL: "https://sgp2024.github.io/"
 languageCode: en-us
-title: SGP 2023 - Symposium on Geometry Processing 2023
+title: SGP 2024 - Symposium on Geometry Processing 2024
 theme: minimalConference
 languages:
   en:
@@ -18,9 +18,6 @@ languages:
     
     ___
     
-    The Symposium on Geometry Processing (SGP)  will co-locate in a joint event of the major conferences in applied geometry at
-    the **[International Geometry Summit 2023 (IGS’23)](https://igs2023.imati.cnr.it/)**.  
-
 
     SGP is the premier venue for
     disseminating new research ideas and cutting-edge results in geometry
@@ -38,21 +35,13 @@ languages:
     
     ___
     
-    Dear all,    
-    
-    
-    in the end, we found a location for the SGP summer school in the city centre of Genoa, which is more comfortable to be reached by public transportation (particularly on Saturday and Sunday when the area of the city where the CNR is located is much less served by public transport).
 
-    
-    It is also within walking distance from the rest of the IGS event (and one stop from the underground).
-
-    
-    **The SGP will be located at the Bi.Bi Service - EventiGenova - Via XX Settembre, 41/3rd floor, 16121 Genova (GE)**
+    **The SGP will be located at the Massachusetts Institute of Technology, Cambridge, MA, USA.**
     
     ___
     "
     
-    sponsorPlea: "if you like to become a sponsor of SGP 2023."
+    sponsorPlea: "if you like to become a sponsor of SGP 2024."
     submitNow: "Begin your submision now."
 menu:
   main:
@@ -72,14 +61,14 @@ menu:
       url: /past/
       weight: 50
 Params:
-  sponsorContact: "contact@geometryprocessing.org"
-  submissionUrl: "https://srmv2.eg.org/COMFy/Conference/SGP_2023"
+  sponsorContact: "jsolomon@mit.edu"
+  submissionUrl: "https://srmv2.eg.org/COMFy/Conference/SGP_2024"
   events: 
     - id: "conference_location"
     - id: "graduate_school"
-      date: "July 1-2, 2023, (Program is now available)"
+      date: "June 22-23, 2024"
     - id: "conference"
-      date: "July 3-5, 2023"
+      date: "June 24-26, 2024"
   #sponsors:
    #- name: ""
      #id: "gold"
@@ -88,7 +77,7 @@ Params:
          #logo: "images/geometryfactory-logo.png"
   importantDates:    
    - id: abstract_submission
-     date: "April 7, 2023, 23:59 UTC"
+     date: "TBD" #"April 7, 2023, 23:59 UTC"
    - id: paper_submission
      date: "April 12, 2023, 23:59 UTC"
    - id: notification_of_acceptance
