@@ -74,7 +74,7 @@
   --mainfont: var(--bs-font-sans-serif);
   --titlefont: torontoSubway, sans-serif;
   --headerfont: var(--titlefont);
-  --logoMaxWidth: 500px;
+  --logoMaxWidth: 500px; 
   
   --planet-background: #f2f7f7;
   --planet-menu-bg: #266375;
