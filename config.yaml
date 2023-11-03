@@ -8,16 +8,13 @@ languages:
     weight: 1
     about: "
     
-    **[Registration for Conference and Graduate School is now open!](https://igs2023.imati.cnr.it/registration.html)**
+    **[Registration for the Conference and Graduate School is not open yet.](https://sgp2024.github.io/)**
     
     
-    **[The Marathon Hostel still has some places left if you are looking for accommodation](https://marathonhostel.com/en/)**
-    
-    
-    **[SGP Graduate School Program is now available!](/program)**
+    **[SGP'24 Program is in preparation.](/program)**
     
     ___
-    
+
 
     SGP is the premier venue for
     disseminating new research ideas and cutting-edge results in geometry
@@ -41,7 +38,7 @@ languages:
     ___
     "
     
-    sponsorPlea: "if you like to become a sponsor of SGP 2024."
+    sponsorPlea: "if you would like to become a sponsor of SGP 2024."
     submitNow: "Begin your submision now."
 menu:
   main:
@@ -79,42 +76,42 @@ Params:
    - id: abstract_submission
      date: "TBD" #"April 7, 2023, 23:59 UTC"
    - id: paper_submission
-     date: "April 12, 2023, 23:59 UTC"
+     date: "TBD"
    - id: notification_of_acceptance
-     date: "May 31, 2023"
+     date: "TBD"
    - id: revised_version_due
-     date: "June 9, 2023, 23:59 UTC"
+     date: "TBD"
    - id: camera_ready_due
-     date: "June 20, 2023, 23:59 UTC"
+     date: "TBD"
    - id: graduate_school
-     date: " July 1-2, 2023"
+     date: "June 22-23, 2024"
    - id: conference
-     date: "July 3–7, 2023"
+     date: "June 24-26, 2024"
   chairs:
   - id: conference_co_chairs
     items: 
-      - name: "Silvia Biasotti"
-        email: "silvia@ge.imati.cnr.it"
-        affiliation: "IMATI"
-      - name: "Lin Gao"
-        email: "gaolin@ict.ac.cn"
-        affiliation: "Chinese Academy of Sciences"
+      - name: "Justin Solomon"
+        email: "jsolomon@mit.edu"
+        affiliation: "MIT"
+      - name: "Mina Konaković Luković"
+        email: "minakl@mit.edu"
+        affiliation: "MIT"
   - id: technical_program_co_chairs
     items: 
-      - name: "Pooran Memari"
+      - name: "Ruizhen Hu"
         email: ""
-        affiliation: "CNRS-LIX, Ecole Polytechnique"
-      - name: " Justin Solomon"
+        affiliation: "Shenzhen University"
+      - name: "Sylvain Lefebvre"
         email: ""
-        affiliation: "MIT"
+        affiliation: "INRIA"
   - id: graduate_school_co_chairs
     items: 
-      - name: "Rana Hanocka"
+      - name: "Silvia Sellán"
         email: ""
-        affiliation: "University of Chicago"
-      - name: "Nico Pietroni"
+        affiliation: "University of Toronto"
+      - name: "Edward Chien"
         email: ""
-        affiliation: "University of Technology Sydney"
+        affiliation: "Boston University"
 
 #  - id: awards_chair
 #    items: 
@@ -124,302 +121,26 @@ Params:
   committees:
     - id: technical_papers_committee
       members:
-          - name: Noam Aigerman
-            affiliation: "Adobe Research"
-            country: "USA"
-          - name: Marc Alexa
-            affiliation: "TU Berlin"
-            country: "GERMANY"
-          - name: Pierre Alliez
-            affiliation: "Inria Sophia Antipolis"
-            country: "FRANCE"
-          - name: Marco Attene
-            affiliation: "CNR - IMATI"
-            country: "ITALY"
-          - name: Omri Azencot
-            affiliation: "Ben-Gurion University"
-            country: "ISRAEL"
-          - name: Alexander Belyaev
-            affiliation: "Heriot-Watt University"
-            country: "UK"
-          - name: Mirela Ben-Chen
-            affiliation: "Technion - IIT"
-            country: "ISRAEL"
-          - name: Bedrich Benes
-            affiliation: "Purdue University"
-            country: "USA"
-          - name: David Bommes
-            affiliation: "University of Bern"
-            country: "SWITZERLAND"
-          - name: Mario Botsch
-            affiliation: "TU Dortmund"
-            country: "GERMANY"
-          - name: Tamy Boubekeur
-            affiliation: "Adobe Research"
-            country: "FRANCE"
-          - name : Marcel Campen
-            affiliation: "Universität Osnabrück"
-            country: "GERMANY"
-          - name: Raphaelle Chaine
-            affiliation: "LIRIS - CNRS"
-            country: "FRANCE"
-          - name: Siddhartha Chaudhuri
-            affiliation: "Adobe Research"
-            country: "INDIA"
-          - name: Renjie Chen
-            affiliation: "University of Science and Technology of China"
-            country: "CHINA"
-          - name: Edward Chien
-            affiliation: "Boston University"
-            country: "USA"
-          - name: Paolo Cignoni
-            affiliation: "ISTI - CNR"
-            country: "ITALY"
-          - name: David Cohen-Steiner
-            affiliation: "INRIA"
-            country: "FRANCE"
-          - name: Angela Dai
-            affiliation: "Technical University of Munich"
-            country: "GERMANY"
-          - name: Mathieu Desbrun
-            affiliation: "Inria Paris Saclay"
-            country: "France"
-          - name: Tamal Dey
-            affiliation: "Purdue University"
-            country: "USA"
-          - name: Olga Diamanti
-            affiliation: "TU Graz"
-            country: "SWITZERLAND"
-          - name: Julie Digne
-            affiliation: "LIRIS - CNRS"
-            country: "FRANCE"
-          - name: Xifeng Gao
-            affiliation: "Florida State University"
-            country: "USA"
-          - name: Yotam Gingold
-            affiliation: "George Mason University"
-            country: "USA"
-          - name: Daniela Giorgi
-            affiliation: "National Research Council of Italy"
-            country: "ITALY"         
-          - name: Paul Guerrero
-            affiliation: "Adobe Research"
-            country: "UK"
-          - name: Leonidas Guibas
-            affiliation: "Stanford University"
-            country: "USA"
-          - name: Rana Hanocka
-            affiliation: "University of Chicago"
-            country: "USA"
-          - name: Ying He
-            affiliation: "Nanyang Technological University"
-            country: "CHINA"
-          - name: Philipp Herholz
-            affiliation: "ETH Zurich"
-            country: "SWITZERLAND"
-          - name: Klaus Hildebrandt
-            affiliation: "TU Delft"
-            country: "The Netherlands"
-          - name: Hugues Hoppe,
-            affiliation: ""
-            country: "USA"
-          - name: Kai Hormann
-            affiliation: "Università della Svizzera italiana"
-            country: "SWITZERLAND"
-          - name: Ruizhen Hu
-            affiliation: "Shenzhen University"
-            country: "CHINA"                    
-          - name: Jin Huang
-            affiliation: "Zhejiang University"
-            country: "CHINA"
-          - name: Qixing Huang
-            affiliation: "University of Texas"
-            country: "USA"
-          - name: Alec Jacobson
-            affiliation: "University of Toronto"
-            country: "CANADA"
-          - name: Tao Ju
-            affiliation: "Washington University in St. Louis"
-            country: "USA"
-          - name: Misha Kazhdan
-            affiliation: "Johns Hopkins University"
-            country: "USA"
-          - name: John Keyser
-            affiliation: "Texas A&M University"
-            country: "USA"
-          - name: Vladimir Kim
-            affiliation: "Adobe"
-            country: "USA"
-          - name: Leif Kobbelt
-            affiliation: "RWTH Aachen University"
-            country: "GERMANY"
-          - name: Mina Konaković Luković
-            affiliation: "MIT"
-            country: "USA"
-          - name: Jiri Kosinka
-            affiliation: "University of Groningen"
-            country: "The Netherlands"
-          - name: Isaak Lim
-            affiliation: "RWTH Aachen University"
-            country: "GERMANY"         
-          - name: Yang Liu
-            affiliation: "Microsoft Research Asia"
-            country: "CHINA"
-          - name: Marco Livesu
-            affiliation: "IMATI - CNR"
-            country: "ITALY"
-          - name: Luigi Malomo
-            affiliation: "ISTI - CNR"
-            country: "ITALY"
-          - name: Nicolas Mellado
-            affiliation: "CNRS - IRIT"
-            country: "FRANCE"
-          - name: Simone Melzi 
-            affiliation: "University of Milano-Bicocca"
-            country: "ITALY"            
-          - name: Przemyslaw Musialski
-            affiliation: "New Jersey Institute of Technology"
-            country: "USA"
-          - name: Maks Ovsjanikov
-            affiliation: "Ecole Polytechnique"
-            country: "FRANCE"
-          - name: Julian Panetta
-            affiliation: "University of California, Davis"
-            country: "USA"
-          - name: Daniele Panozzo
-            affiliation: "NYU"
-            country: "USA"
-          - name: Giuseppe Patane
-            affiliation: "CNR - IMATI"
-            country: "ITALY"
-          - name: Roi Poranne
-            affiliation: "ETH Zurich"
-            country: "SWITZERLAND"
-          - name: Reinhold Preiner
-            affiliation: "TU Graz"
-            country: "AUSTRIA"
-          - name: Enrico Puppo
-            affiliation: "University of Genoa"
-            country: "ITALY"
-          - name: Jing Ren
-            affiliation: "ETH Zurich"
-            country: "SWITZERLAND"          
-          - name: Emanuele Rodola
-            affiliation: "Sapienza University of Rome"
-            country: "ITALY"
-          - name: Martin Rumpf
-            affiliation: "Bonn University"
-            country: "GERMANY"
-          - name: Leonardo Sacht
-            affiliation: "Universidade Federal de Santa Catarina"
-            country: "BRAZIL"
-          - name: Scott Schaefer
-            affiliation: "Texas A&M University"
-            country: "USA"
-          - name: Ryan Schmidt
-            affiliation: "Autodesk Research"
-            country: "CANADA"
-          - name: Teseo Schneider
-            affiliation: "University of Victoria"
-            country: "CANADA"
-          - name: Peter Schröder
-            affiliation: "Caltech"
-            country: "USA"
-          - name: Silvia Sellán
-            affiliation: "University of Toronto"
-            country: "CANADA"            
-          - name: Nicholas Sharp
-            affiliation: "University of Toronto"
-            country: "CANADA"
-          - name: Dmitriy Smirnov
-            affiliation: "Netflix"
-            country: "USA"                        
-          - name: Olga Sorkine-Hornung
-            affiliation: "ETH Zurich"
-            country: "SWITZERLAND"
-          - name: Michela Spagnuolo
-            affiliation: "CNR - IMATI"
-            country: "ITALY"            
-          - name: Oded Stein
-            affiliation: "MIT"
-            country: "USA"
-          - name: Hao Su
-            affiliation: "UC San Diego"
-            country: "USA"
-          - name: Kenshi Takayama
-            affiliation: "National Institute of Informatics"
-            country: "JAPAN"
-          - name: Chengcheng Tang
-            affiliation: "Facebook"
-            country: "USA"
-          - name: Jean-Marc Thiery
-            affiliation: "Adobe Research"
-            country: "FRANCE"
-          - name: Bernhard Thomaszewski
-            affiliation: "University of Montreal"
-            country: "CANADA"
-          - name: Amir Vaxman
-            affiliation: "The University of Edinburgh"
-            country: "UK"
-          - name: Etienne Vouga
-            affiliation: "UT Austin"
-            country: "USA"
-          - name: Johannes Wallner
-            affiliation: "TU Graz"
-            country: "AUSTRIA"
-          - name: Michael Wand
-            affiliation: "University of Mainz"
-            country: "GERMANY"
-          - name: Ofir Weber
-            affiliation: "Bar-Ilan University"
-            country: "ISRAEL"
-          - name: Kai Xu
-            affiliation: "National University of Defense Technology"
-            country: "CHINA"
-          - name: Yongliang Yang
-            affiliation: "University of Bath"
-            country: "UK"
-          - name: Hao (Richard) Zhang
-            affiliation: "Simon Fraser University"
-            country: "CANADA"
-          - name: Eugene Zhang
-            affiliation: "Oregon State University"
-            country: "USA"
-          - name: Qingnan Zhou
-            affiliation: "Adobe Research"
-            country: "USA"
+        #  - name: Noam Aigerman
+        #    affiliation: "Adobe Research"
+        #    country: "USA"
+        #  - name: Marc Alexa
+        #    affiliation: "TU Berlin"
+        #    country: "GERMANY"
     - id: awards_committee
-      members:    
-        - name: "Marc Alexa"
-          email: "firstname.lastname at tu-berlin.de"
-          affiliation: "Technische Universität Berlin"    
-          country: "Germany"
-        - name: Daniele Panozzo
-          affiliation: "NYU"
-          country: "USA"                
+      members:     
+        #- name: "Marc Alexa"
+        #  email: "firstname.lastname at tu-berlin.de"
+        #  affiliation: "Technische Universität Berlin"    
+        #  country: "Germany"
+        #- name: Daniele Panozzo
+        #  affiliation: "NYU"
+        #  country: "USA"                
     - id: steering_committee
-      members: 
-        - name: "Leif Kobbelt"
-          affiliation: "RWTH Aachen University"
-          country: "Germany"
-        - name: "Marc Alexa"
-          affiliation: "TU Berlin"
-          country: "Germany"
-        - name: "Pierre Alliez"
-          affiliation: "INRIA"
-          country: "France"
-        - name: "Mirela Ben-Chen"
-          affiliation: "Technion-IIT"
-          country: "Israel"
-        - name: "Hui Huang"
-          affiliation: "Shenzhen University"
-          country: "China"
-        - name: "Niloy Mitra"
-          affiliation: "University College London"
-          country: "UK"
-        - name: "Daniele Panozzo"
-          affiliation: "New York University"
-          country: "USA"
+      members:
+        #- name: "Leif Kobbelt"
+        #  affiliation: "RWTH Aachen University"
+        #  country: "Germany"
     - id: student_volunteers
       members:
         #- name: Name Name
@@ -676,6 +397,11 @@ Params:
     Zimbabwe: "🇿🇼"
     Åland Islands: "🇦🇽"
   pastEvents:
+    - year: "2023"
+      url: "https://sgp2023.github.io/"
+      city: "Genova"
+      country: "Italy"
+      date: "July 3-5"
     - year: "2022"
       url: "https://sgp2022.github.io/"
       city: "Remote"
