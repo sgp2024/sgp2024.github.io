@@ -4,6 +4,8 @@ layout: "simple-static"
 type: "page"
 ---
 
+TBD
+<!---
 Following its traditions, SGP 2023 will attribute three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a test of time award.
 
 
@@ -46,5 +48,6 @@ Max Wardetzky, Saurabh Mathur, Felix Kälberer, Eitan Grinspun
 
 _Symposium on Geometry Processing, 2007_
 
+--->
 
 [Previous awardees.](http://awards.geometryprocessing.org/)
