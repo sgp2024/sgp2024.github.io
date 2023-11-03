@@ -65,6 +65,7 @@
   --dark-blue: #282b27;
   --light-blue: #76a9ad;
   --turquoise: #fcfcfc;
+  --light_red: #e0433d;
   --footer-height: 251px;
   --green: #27a8a2;
   --red: #f74c4c;
@@ -105,7 +106,7 @@ a
 }
 a:hover
 {
-  color: var(--turquoise);
+  color: var(--light_red);
 }
 
 #banner-outer
