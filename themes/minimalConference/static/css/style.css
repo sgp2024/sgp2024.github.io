@@ -71,6 +71,7 @@
   --red: #d45f64;
   --blue: #d45f64;
   --gray: #888;
+  --old_event_color: #d34c53;
   --mainfont: var(--bs-font-sans-serif);
   --titlefont: torontoSubway, sans-serif;
   --headerfont: var(--titlefont);
@@ -431,10 +432,10 @@ h2:nth-of-type(3n+0)
 
 div#events
 {
-  background-color: #d34c53;
+  background-color: #76a9ad;
   color: #f3f3f3;
   font-family: var(--headerfont);
-  font-size: 2em;
+  font-size: 1.5em;
   text-align: center;
   text-align-last: center;
   border-radius: 0px 0px 3px 3px;
