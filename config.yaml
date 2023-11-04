@@ -99,18 +99,18 @@ Params:
   - id: technical_program_co_chairs
     items: 
       - name: "Ruizhen Hu"
-        email: ""
+        email: "ruizhen.hu@gmail.com"
         affiliation: "Shenzhen University"
       - name: "Sylvain Lefebvre"
-        email: ""
+        email: "sylvain.lefebvre@inria.fr"
         affiliation: "INRIA"
   - id: graduate_school_co_chairs
     items: 
       - name: "Silvia Sellán"
-        email: ""
+        email: "sgsellan@cs.toronto.edu"
         affiliation: "University of Toronto"
       - name: "Edward Chien"
-        email: ""
+        email: "edchien@bu.edu"
         affiliation: "Boston University"
 
 #  - id: awards_chair
