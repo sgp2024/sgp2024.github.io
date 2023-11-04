@@ -438,7 +438,7 @@ div#events
   font-size: 1.5em;
   text-align: center;
   text-align-last: center;
-  border-radius: 0px 0px 3px 3px;
+  border-radius: 0px 0px 10px 10px;
   line-height: 90%;
 }
 div#events p
