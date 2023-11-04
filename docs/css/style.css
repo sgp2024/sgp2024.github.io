@@ -546,7 +546,7 @@ table.chairs-table td
 
 /* encourage line break */
 .line {
-  white-space:nowrap;
+  white-space:normal;
 }
 
 td.chairs-name{
