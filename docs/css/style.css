@@ -137,7 +137,7 @@ img#banner
 {
   background-color: var(--planet-menu-bg);
   max-width: 100%;
-  border-top:4px solid #fcfcfc;
+  border-top:1px solid #fcfcfc;
 }
 
 #nav-border #nav a
