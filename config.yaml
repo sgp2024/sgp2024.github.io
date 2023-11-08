@@ -104,7 +104,7 @@ Params:
       - name: "Sylvain Lefebvre"
         email: "sylvain.lefebvre@inria.fr"
         affiliation: "INRIA"
-  - id: graduate_school_co_chairs
+  - id: graduate_school_co_chairs 
     items: 
       - name: "Silvia Sellán"
         email: "sgsellan@cs.toronto.edu"
