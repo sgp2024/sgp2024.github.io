@@ -12,54 +12,27 @@ We invite submissions related to, but not limited to, the following topics:
 -  Acquisition and reconstruction
 -  Analysis and fabrication for 3D printing
 -  Architectural geometry
+-  Computational geometry
+-  Differentiable rendering
 -  Discrete differential geometry
+-  Geometry and topology data structures and representations
 -  Exploration of shape collections
--  Geometry and topology representations
 -  Geometry compression
 -  Geometric deep learning
+-  Geometric representations for machine learning
 -  Geometry processing applications
 -  Interactive techniques
 -  Meshing and remeshing
 -  Multiresolution modeling
 -  Multimodal shape processing
+-  Neural shape representations
+-  Point cloud acquisition and processing
 -  Processing of massive geometric datasets
--  Geometric representations for machine learning
 -  Shape analysis and synthesis
 -  Simulation and animation
 -  Smoothing, filtering, and denoising
 -  Surface and volume parameterization and deformation
 
-#### Dataset Papers.
-SGP is encouraging submission of _dataset papers_ to the main technical papers program. Geometric datasets play a critical role in evaluating the behavior of geometric algorithms, and in recent years have provided interesting and challenging examples that have driven the field forward. We are therefore looking for papers that can build on this success by providing, documenting, and discussing datasets that provide larger, more challenging datasets than those seen before—or datasets that stimulate new challenges in geometry processing (e.g., new kinds of data that in turn demand new kinds of algorithms).  Importantly, however, a good dataset paper is more than just a dump of raw data.  We are looking for thoughtfully-written companion papers, to be evaluated according to the following criteria:
-
-**NOVELTY.** In what way(s) is the dataset different from those currently available?  For instance, does it provide new kinds of "rich" data?  Is it organized or annotated in a different way?  It is representative of a different application domain—perhaps one that is not well-studied in geometry processing?  Is it significantly larger/higher-resolution than previous datasets?  Does it provide new challenges for robustness?  Etc.
-
-**IMPACT.** What is the potential impact on research in geometry processing?  Will this dataset inspire the development of new kinds of algorithms?  Will it significantly push forward the state of the art in terms of scalability, robustness, etc.?  Does it help resolve clearly-defined holes or shortcomings of previous datasets?
-
-**PRESENTATION.** Is the paper itself well-written and well-organized?  Is the purpose of the new dataset clearly explained and motivated?  Does the paper make a compelling case that the dataset presents new opportunities or challenges (e.g., experiments indicating that current algorithms do not perform well on this data).  Is the data itself clearly described and documented?  Are sufficient details provided about, e.g., the acquisition process, or other metadata that may be useful/necessary for interpreting the data?
-
-**ACCESSIBILITY.** Is the dataset easy to access/examine?  For instance, if the dataset is very large, is there a mechanism for accessing only individual files or examples?  Are files stored in standard/open formats, and/or do the authors provide guidance on how to convert data stored in non-standard formats?  Do the authors provide tools that help to inspect/visualize novel or unusual "rich" data?  Where will the data set be hosted, and is there a plan for ensuring the dataset will remain available in the future?  Is the license clearly defined, and/or are there any significant intellectual property issues associated with sharing the dataset?
-
-**PRIVACY AND ETHICS.** Does the paper carefully address potential issues of anonymity or personally identifying information?  Does it discuss any ethical issues around acquisition of the data, or potential use/misuse of data outside the intended context?
-
-These criteria will also be provided to reviewers and committee members during the review period.  Authors interested in examples of successful dataset papers may wish to consult the following list:
-
-- The Princeton Shape Benchmark [paper](https://shape.cs.princeton.edu/benchmark/benchmark.pdf) [dataset](https://shape.cs.princeton.edu/benchmark/)
-
-- Thingi10K: A Dataset of 10000 3D-Printing Models [paper](https://arxiv.org/abs/1605.04797) [dataset](https://ten-thousand-models.appspot.com/)
-
-- ABC: A Big CAD Model Dataset For Geometric Deep Learning [paper](https://cs.nyu.edu/~zhongshi/publication/abc-dataset/) [dataset](https://archive.nyu.edu/handle/2451/43778)
-
-- ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes [paper](https://arxiv.org/abs/1702.04405) [dataset](http://www.scan-net.org/)
-
-- The Digital Michelangelo Project: 3D Scanning of Large Statues [paper](http://graphics.stanford.edu/papers/dmich-sig00/) [dataset](https://accademia.stanford.edu/data/mich/)
-
-The dataset papers will be published similarly to the technical papers, in the same Computer Graphics Forum special issue.
-
-
-
-
-Submissions via: TBA
 
 ### Typesetting
 
@@ -92,7 +65,9 @@ We are adopting the same policy as SIGGRAPH (which is similar to CVPR) on prepri
 > - Authors may mention their submission(s) as under review at SGP as part of the written materials submitted for job and funding applications. Authors may talk about the research involved in their submission in talks given for these purposes as well, without mentioning SGP.
 
 ### Proceedings
+The SGP proceedings will appear as a regular electronic issue of Computer Graphics Forum, the International Journal of the EUROGRAPHICS Association. The journal status of the proceedings requires a two-stage review process with conditional acceptance after the first round and final acceptance based on the revised submissions.
 
+<!--
 Accepted papers will be published in a regular issue of _Computer Graphics
 Forum_, the International Journal of the EUROGRAPHICS Association. _Computer
 Graphics Forum_ (Print ISSN: 0167-7055; Online ISSN: 1467-8659) is the official
@@ -102,6 +77,12 @@ Graphics in both commercial and academic environment. It has one of the highest
 impact factors in the field, and it is indexed by all major databases;
 additionally, the electronic version of all accepted work will also be indexed
 and accessible by the EG Digital Library.
+-->
+### Awards and Recognitions
+
+Following its traditions, SGP 2024 will attribute three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a data set award designed to acknowledge the suppliers of high quality datasets used in geometry processing. In addition, SGP may provide papers with the reproducibility stamp to recognise the effort of researchers who, in addition to publishing their paper at SGP 2024, provide a complete open-source implementation of their algorithm.
+ 
+Please send nominations to awardnominations@geometryprocessing.org 
 
 <!----------------------------
 ## Instructions for Oral Presentations

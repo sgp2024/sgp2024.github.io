@@ -74,15 +74,15 @@ Params:
          #logo: "images/geometryfactory-logo.png"
   importantDates:    
    - id: abstract_submission
-     date: "TBD" #"April 7, 2023, 23:59 UTC"
+     date: "April 5, 2024, 23:59 UTC/GMT"
    - id: paper_submission
-     date: "TBD"
+     date: "April 10, 2024, 23:59 UTC/GMT"
    - id: notification_of_acceptance
-     date: "TBD"
+     date: "May 24, 2024, 23:59 UTC/GMT"
    - id: revised_version_due
-     date: "TBD"
+     date: "June 3, 2024, 23:59 UTC/GMT"
    - id: camera_ready_due
-     date: "TBD"
+     date: "June 14, 2024, 23:59 UTC/GMT"
    - id: graduate_school
      date: "June 22-23, 2024"
    - id: conference
