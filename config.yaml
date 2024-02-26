@@ -48,15 +48,18 @@ menu:
     - name: program
       url: /program/
       weight: 20
+    - name: registration
+      url: /registration/
+      weight: 30
     - name: organization
       url: /organization/
-      weight: 30
+      weight: 40
     - name: awards
       url: /awards/
-      weight: 40
+      weight: 50
     - name: previous_sgps
       url: /past/
-      weight: 50
+      weight: 60
 Params:
   sponsorContact: "jsolomon@mit.edu"
   submissionUrl: "https://srmv2.eg.org/COMFy/Conference/SGP_2024"
