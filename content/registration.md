@@ -4,7 +4,6 @@ layout: "registration"
 type: "page"
 ---
 
-<div style="margin-top: 20px;"></div>
 
 ## Registration
 
