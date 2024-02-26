@@ -13,7 +13,7 @@
 - id: registration
   translation: "Registration"
 - id: venue
-  translation: "Venue"
+  translation: "Venue "
 - id: organization
   translation: "Organization"
 - id: awards
