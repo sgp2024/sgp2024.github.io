@@ -9,7 +9,7 @@ type: "page"
 
 The registration includes access to full conference program, graduate school, and social events. Free coffee mug (while supplies last) to early bird registrants. Additional mug can be purchased onsite for $15.
 
-The registration will open soon...
+The registration will open soon.
 <!-- Use the following link to register: -->
 
 ## Rates
