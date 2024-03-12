@@ -9,24 +9,24 @@ type: "page"
 
 The registration includes access to full conference program, graduate school, and social events. Free coffee mug (while supplies last) to early bird registrants. Additional mug can be purchased onsite for $15.
 
-The registration will open soon. 
+Use the following link to register: [sgp-2024.eventbrite.com](https://www.eventbrite.com/e/sgp-2024-tickets-860146460217?aff=oddtdtcreator) 
 
 Letters for visa applications will be provided upon request after registration. 
-<!-- Use the following link to register: -->
+
 
 ## Rates
 
 |  | Student | Academia | Industry |
 |----------:|:----------:|:----------:|:----------:|
 | **Early bird** (until 10 May) |  |  |  |
-| EG member | $400 | $500 | $600 |
-| Non-EG member | $450 | $550 | $650 |
-| **Regular** (11 May-21 June) | | | |
 | EG member | $450 | $550 | $650 |
 | Non-EG member | $500 | $600 | $700 |
-| **Onsite** (22-26 June) |  |  |  |
-| EG member | $550 | $650 | $750 |
-| Non-EG member | $600 | $700 | $800 |
+| **Regular** (11 May-15 June) | | | |
+| EG member | $500 | $600 | $700 |
+| Non-EG member | $550 | $650 | $750 |
+| **Late** (16-26 June) |  |  |  |
+| EG member | $600 | $700 | $800 |
+| Non-EG member | $650 | $750 | $850 |
 
 
 

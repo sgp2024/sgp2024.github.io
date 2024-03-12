@@ -826,3 +826,28 @@ td.teaserColumn
     width: 100%;
     height: 100%;
 }
+
+.text_img_right_container {
+  display: flex;
+  width: 100%; /* Adjust the width as necessary */
+}
+
+.text-part {
+  flex: 1;  /* 2; 2/3 of the container */
+  padding: 20px;
+}
+
+.image-part {
+  flex: 1; /* 1/3 of the container */
+  display: flex;
+  justify-content: center; /* Center the image within the div */
+  align-items: center; /* This is optional, depending on how you want to align the image vertically */
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.image-part img {
+  width: 100%; /* Make the image fit the div. Adjust as necessary. */
+  height: auto; /* Adjust the height automatically */
+}
+
