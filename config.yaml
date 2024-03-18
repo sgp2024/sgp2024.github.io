@@ -277,6 +277,66 @@ Params:
           - name: Marco Livesu
             affiliation: "IMATI CNR"
             country: "Italy"
+          - name: Shiqing Xin
+            affiliation: "Shandong University"
+            country: "China"
+          - name: Peng-Shuai Wang
+            affiliation: "Peking University"
+            country: "China"
+          - name: Amir Vaxman
+            affiliation: "The University of Edinburgh"
+            country: "The Netherlands"
+          - name: Oded Stein
+            affiliation: "University of Southern California"
+            country: "USA"
+          - name: Jing Ren
+            affiliation: "ETH Zurich"
+            country: "Switzerland"
+          - name: Vladimir Kim
+            affiliation: "Adobe"
+            country: "USA"
+          - name: Jakob Andreas Bærentzen
+            affiliation: "Technical University of Denmark"
+            country: "Denmark"
+          - name: Alexander Belyaev
+            affiliation: "Heriot-Watt University"
+            country: "UK"
+          - name: Pierre Alliez
+            affiliation: "Inria Sophia Antipolis"
+            country: "France"
+          - name: Qingnan Zhou
+            affiliation: "Adobe"
+            country: "USA"          
+          - name: Michael Wand
+            affiliation: "University of Mainz"
+            country: "Germany"          
+          - name: Johannes Wallner
+            affiliation: "TU Graz"
+            country: "Austria"          
+          - name: Etienne Vouga
+            affiliation: "UT Austin"
+            country: "USA"
+          - name: Jean-Marc Thiery
+            affiliation: "Adobe Research"
+            country: "USA"
+          - name: Kenshi Takayama
+            affiliation: "CyberAgent"
+            country: "USA"
+          - name: Olga Sorkine-Hornung
+            affiliation: "ETH Zurich"
+            country: "Switzerland"
+          - name: Dmitriy Smirnov
+            affiliation: "Netflix"
+            country: "USA"
+          - name: Silvia Sellán
+            affiliation: "University of Toronto"
+            country: "Canada"
+          - name: Peter Schröder
+            affiliation: "Caltech"
+            country: "USA"
+          - name: Leonardo Sacht
+            affiliation: "Universidade Federal de Santa Catarina"
+            country: "Brazil"
     - id: awards_committee
       members:     
         - name: "Marc Alexa"
