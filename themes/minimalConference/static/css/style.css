@@ -829,7 +829,25 @@ td.teaserColumn
 
 .text_img_right_container {
   display: flex;
+  flex-direction: row; /* Default layout: side-by-side */
   width: 100%; /* Adjust the width as necessary */
+}
+
+/* Responsive adjustments */
+@media (max-width: 1100px) { /* Adjust this breakpoint as needed */
+  .text_img_right_container {
+    flex-direction: column; /* Stack the items on smaller screens */
+  }
+
+  .text-part, .image-part {
+    flex: none; /* Override the flex settings for mobile */
+    width: 100%; /* Take full width on smaller screens */
+  }
+
+  .image-part figcaption {
+    text-align: center; /* Optionally adjust alignment for smaller screens */
+    margin-right: 0; /* Adjust as needed for mobile */
+  }
 }
 
 .text-part {
