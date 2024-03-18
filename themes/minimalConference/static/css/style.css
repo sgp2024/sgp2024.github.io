@@ -842,12 +842,22 @@ td.teaserColumn
   display: flex;
   justify-content: center; /* Center the image within the div */
   align-items: center; /* This is optional, depending on how you want to align the image vertically */
-  border-radius: 15px;
+  border-radius: 10px;
   overflow: hidden;
 }
 
 .image-part img {
   width: 100%; /* Make the image fit the div. Adjust as necessary. */
   height: auto; /* Adjust the height automatically */
+  border-radius: 10px;
 }
 
+.image-part figure {
+  margin: 0; /* Remove margin from figure */
+  width: 100%; /* Ensure figure fills the container */
+}
+
+.image-part figcaption {
+  text-align: right; /* Align caption text to the right */
+  margin-right: 20px; /* Adjust space on the right if needed */
+}

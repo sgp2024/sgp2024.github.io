@@ -14,6 +14,12 @@
   translation: "Registration"
 - id: venue
   translation: "Venue"
+- id: getting_here
+  translation: "Getting Here"
+- id: accommodation
+  translation: "Accommodation"
+- id: social_events
+  translation: "Social Events"
 - id: organization
   translation: "Organization"
 - id: awards
