@@ -142,12 +142,141 @@ Params:
   committees:
     - id: technical_papers_committee
       members:
-        #  - name: Noam Aigerman
-        #    affiliation: "Adobe Research"
-        #    country: "USA"
-        #  - name: Marc Alexa
-        #    affiliation: "TU Berlin"
-        #    country: "GERMANY"
+          - name: Marc Alexa
+            affiliation: "TU Berlin"
+            country: "Germany"
+          - name: Kui Wu
+            affiliation: "LightSpeed Studios"
+            country: "USA"
+          - name: Yu-Kun Lai
+            affiliation: "Cardiff University"
+            country: "UK"
+          - name: Zhonggui Chen
+            affiliation: "Xiamen University"
+            country: "China"
+          - name: Haisen Zhao
+            affiliation: "Shandong University"
+            country: "China"
+          - name: Paul Guerrero
+            affiliation: "Adobe Research"
+            country: "USA"
+          - name: Ofir Weber
+            affiliation: "Bar-Ilan University"
+            country: "Israel"
+          - name: Peng Song
+            affiliation: "Singapore University of Technology and Design"
+            country: "Singapore"
+          - name: Raphaelle Chaine
+            affiliation: "LIRIS CNRS, Université Lyon 1"
+            country: "France"
+          - name: Yongliang Yang
+            affiliation: "University of Bath"
+            country: "UK"
+          - name: Rui Ma
+            affiliation: "Jilin University"
+            country: "China"
+          - name: Martin Rumpf
+            affiliation: "Bonn University"
+            country: "Germany"
+          - name: Lei Li
+            affiliation: "Technical University of Munich"
+            country: "Germany"
+          - name: Philipp Herholz
+            affiliation: "ETH Zurich"
+            country: "Switzerland"
+          - name: Nicolas Bonneel
+            affiliation: "CNRS, Université Lyon"
+            country: "France"
+          - name: Paolo Cignoni
+            affiliation: "ISTI - CNR"
+            country: "Italy"
+          - name: Maks Ovsjanikov
+            affiliation: "Ecole Polytechnique"
+            country: "France"
+          - name: Bernhard Thomaszewski
+            affiliation: "ETH Zurich"
+            country: "Switzerland"
+          - name: Dong-Ming Yan
+            affiliation: "MAIS, Institute of Automation, Chinese Academy of Sciences"
+            country: "China"
+          - name: Michela Spagnuolo
+            affiliation: "CNR-IMATI"
+            country: "Italy"
+          - name: Bedrich Benes
+            affiliation: "Purdue University"
+            country: "USA"
+          - name: Chengcheng Tang
+            affiliation: "FackBook"
+            country: "USA"
+          - name: Nico Pietroni
+            affiliation: "University of Technology Sydney"
+            country: "Australia"
+          - name: John Keyser
+            affiliation: "Texas A&M University"
+            country: "USA"
+          - name: Xifeng Gao
+            affiliation: "Tencent America"
+            country: "USA"
+          - name: Xiao-Ming Fu
+            affiliation: "USTC"
+            country: "China"
+          - name: Tamal Dey
+            affiliation: "Purdue University"
+            country: "USA"
+          - name: Mathieu Desbrun
+            affiliation: "Inria / Ecole Polytechnique"
+            country: "France"
+          - name: Sharp, Nicholas
+            affiliation: "NVIDIA"
+            country: "Canada"
+          - name: Jin Huang
+            affiliation: "Zhejiang University"
+            country: "China"
+          - name: Giuseppe Patane 
+            affiliation: "CNR-IMATI"
+            country: "Italy"
+          - name: Teseo Schneider
+            affiliation: "University of Victoria"
+            country: "Canada"
+          - name: Kai Hormann
+            affiliation: "Università della Svizzera italiana"
+            country: "Switzerland"
+          - name: Jiri Kosinka
+            affiliation: "Bernoulli Institute, University of Groningen"
+            country: "The Netherlands"
+          - name: Eugene Zhang
+            affiliation: "Oregon State University"
+            country: "USA"
+          - name: Kai Xu
+            affiliation: "National University of Defense Technology"
+            country: "China"
+          - name: Scott Schaefer
+            affiliation: "Texas A&M University"
+            country: "USA"
+          - name: Daniele Panozzo
+            affiliation: "NYU"
+            country: "USA"
+          - name: Nicolas Mellado
+            affiliation: "CNRS, IRIT, Université de Toulouse"
+            country: "France"
+          - name: Luigi Malomo
+            affiliation: "ISTI - CNR"
+            country: "Italy"
+          - name: David Cohen-Steiner
+            affiliation: "INRIA"
+            country: "France"
+          - name: Mirela Ben-Chen
+            affiliation: "Technion - Israel Institute of Technology"
+            country: "Israel"
+          - name: Tamy Boubekeur
+            affiliation: "Adobe Research"
+            country: "France"
+          - name: Enrico Puppo
+            affiliation: "University of Genoa"
+            country: "Italy"
+          - name: Marco Livesu
+            affiliation: "IMATI CNR"
+            country: "Italy"
     - id: awards_committee
       members:     
         - name: "Marc Alexa"

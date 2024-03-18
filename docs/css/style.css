@@ -879,3 +879,35 @@ td.teaserColumn
   text-align: right; /* Align caption text to the right */
   margin-right: 20px; /* Adjust space on the right if needed */
 }
+
+
+.text_img_bottom_container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Text row styling */
+.text-row {
+  margin-bottom: 0px; 
+  padding: 20px;
+}
+
+/* Images row styling */
+.images-row {
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+}
+
+.image-container {
+  width: 50%; /* Adjust as needed */
+  padding: 0 10px; /* Adjust spacing between images */
+  border-radius: 10px;
+}
+
+.image-container img {
+  width: 100%; /* Make the image fit the container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 10px;
+  margin-bottom: 20px; 
+}
+
