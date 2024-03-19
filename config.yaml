@@ -337,6 +337,81 @@ Params:
           - name: Leonardo Sacht
             affiliation: "Universidade Federal de Santa Catarina"
             country: "Brazil"
+          - name: Emanuele Rodola 
+            affiliation: "Sapienza University of Rome"
+            country: "Italy"
+          - name: Reinhold Preiner
+            affiliation: "Graz University of Technology"
+            country: "Austria"
+          - name: Roi Poranne
+            affiliation: "University of Haifa"
+            country: "Israel"
+          - name: Sida Peng
+            affiliation: "Zhejiang University"
+            country: "China"
+          - name: Julian Panetta
+            affiliation: "University of California, Davis"
+            country: "USA"
+          - name: Przemyslaw Musialski
+            affiliation: "New Jersey Institute of Technology"
+            country: "USA"
+          - name: Simone Melzi
+            affiliation: "University of Milano-Bicocca"
+            country: "Italy"
+          - name: Ahmed Mahmoud
+            affiliation: "University of California, Davis"
+            country: "USA"
+          - name: Yang Liu
+            affiliation: "Microsoft Research Asia"
+            country: "China"
+          - name: Isaak Lim
+            affiliation: "RWTH Aachen University"
+            country: "Germany"
+          - name: Leif Kobbelt
+            affiliation: "RWTH Aachen University"
+            country: "Germany"
+          - name: Misha Kazhdan
+            affiliation: "Johns Hopkins University"
+            country: "USA"
+          - name: Tao Ju
+            affiliation: "Washington University in St. Louis"
+            country: "USA"
+          - name: Alec Jacobson
+            affiliation: "University of Toronto and Adobe Research"
+            country: "Canada"
+          - name: Qixing Huang
+            affiliation: "The University of Texas at Austin"
+            country: "USA"
+          - name: Hugues Hoppe
+            affiliation: "Independent Researcher"
+            country: ""
+          - name: Klaus Hildebrandt
+            affiliation: "TU Delft"
+            country: "The Netherlands"
+          - name: Daniela Giorgi
+            affiliation: "National Research Council of Italy - Institute of Information Science and Technologies"
+            country: "Italy"
+          - name: Yotam Gingold
+            affiliation: "George Mason University"
+            country: "USA"
+          - name: Julie Digne
+            affiliation: "LIRIS - CNRS"
+            country: "France"
+          - name: Edward Chien
+            affiliation: "Boston University"
+            country: "USA"
+          - name: Renjie Chen
+            affiliation: "University of Science and Technology of China"
+            country: "China"
+          - name: Marcel Campen
+            affiliation: "Osnabrück University"
+            country: "Germany"
+          - name: Mario Botsch
+            affiliation: "TU Dortmund"
+            country: "Germany"
+          - name: David Bommes
+            affiliation: "University of Bern"
+            country: "Switzerland"
     - id: awards_committee
       members:     
         - name: "Marc Alexa"
