@@ -95,9 +95,9 @@ Params:
          logo: "images/sponsors/altair_logo.jpg"
   importantDates:    
    - id: abstract_submission
-     date: "April 5, 2024, 23:59 UTC"
-   - id: paper_submission
      date: "April 10, 2024, 23:59 UTC"
+   - id: paper_submission
+     date: "April 12, 2024, 23:59 UTC"
    - id: notification_of_acceptance
      date: "May 24, 2024, 23:59 UTC"
    - id: revised_version_due
