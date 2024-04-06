@@ -6,18 +6,24 @@ menu: program
 
 
 speakers: 
-  #- name: Theodore Kim
-  #  url: https://seas.yale.edu/faculty-research/faculty-directory/theodore-kim
-  #  affiliation: Yale University 
-  #  title: The Character of Computer Animation Research
-  #  abstract: 
-  #  portrait: /images/TKim.jpg
-  #- name: Alexander Bobenko
-  #  url: https://page.math.tu-berlin.de/~bobenko/
-  #  affiliation: Technical University Berlin
-  #  title: "Structure preserving discretizations: Towards generalizations of conformal maps and circle patterns"
-  #  abstract: ""
-  #  portrait: /images/ABobenko.png    
+  - name: Alec Jacobson
+    url: https://www.alecjacobson.com
+    affiliation: University of Toronto & Adobe Research
+    title: The Triangle is Dead, Long Live the Triangle!
+    abstract: The geometry processing community has made tremendous progress working with discrete surfaces represented as explicit meshes of triangles. However, recent advances in computer vision and machine learning have demonstrated the power & seeming superiority of unstructured implicit representations. In this talk, I will present thoughts on how our research has been too attached to the triangle, how we can benefit from embracing alternative representations, and why ultimately triangle meshes still have an important role.
+    portrait: /images/alec.jpg
+  - name: Josephine Carstensen
+    url: https://www.carstensen.mit.edu
+    affiliation: Massachusetts Institute of Technology 
+    title: Human-guided geometry processing in high-performance engineering design
+    abstract: Topology optimization has gained traction as a design method for high-performing engineering components and structures. It is a computational approach that generates efficient material layouts, tailored to a user’s specific design requirements. To take full advantage of its exploratory power, topology optimization leaves the user as a passive observer who initiates the design process and assesses the quality of the design upon completion.  The resulting engineering designs are typically high-performing and have high levels of geometric complexity. However, ensuring the physical performance is adequately predicted by a fully automated design approach requires the inclusion of all relevant operating conditions, mechanical behaviors, and fabrication constraints. This requirement limits the widespread use of topology optimization. This talk will focus on recent contributions that address this barrier by introducing human-guided geometry processing as designs are generated. The human experience is actively leveraged to interactively alter local geometric feature size requirements or to encourage similarity to drawn sketches. Integrating human-guided geometry processing is shown to improve known and complex performance considerations related to both mechanical behavior and manufacturability of the designs.
+    portrait: /images/josephine.jpeg
+  - name: Xin Tong
+    url: https://www.microsoft.com/en-us/research/people/xtong/
+    affiliation: Microsoft Research Asia
+    title: "Deep Learning based 3D Understanding and Generation"
+    abstract: Over the past decade, the advancement of deep learning techniques has profoundly transformed the fields of computer vision and natural language processing. However, the distinct characteristics of 3D geometric data present obstacles to the application of deep learning in 3D understanding and generation tasks. In this talk, I will first explore the technical challenges encountered in 3D deep learning. Subsequently, I will present our research work aimed at addressing these challenges in deep learning based 3D understanding and generation. Finally, I will discuss the prospects, highlighting the potential opportunities and challenges in the field of 3D deep learning.
+    portrait: /images/xin.jpg   
 
 graduateSchoolCourses:
 #- title: Functional Correspondence from Discrete Geometry to Learning
