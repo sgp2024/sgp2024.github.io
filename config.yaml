@@ -91,6 +91,11 @@ Params:
    - name: ""
      id: "silver"
      items:
+       - name: "Disney Research Studios"
+         logo: "images/sponsors/disney_logo.png"
+   - name: ""
+     id: "silver"
+     items:
        - name: "Altair"
          logo: "images/sponsors/altair_logo.jpg"
   importantDates:    
