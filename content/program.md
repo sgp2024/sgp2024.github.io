@@ -26,15 +26,15 @@ speakers:
     portrait: /images/xin.jpg   
 
 graduateSchoolCourses:
-#- title: Functional Correspondence from Discrete Geometry to Learning
+#- title: Deep Learning for 3D Geometry
 #  teaser: /images/school-discrete.png
 #  speakers:
-#    - name: Riccardo Marin 
-#      affiliation: University of Tuebingen
-#    - name: Emanuele Rodola
-#      affiliation: GLADIA
-#  abstract: |
-#     ***July 1st, 9:00 - 10:30***
+#    - name: Daniel Ritchie 
+#      affiliation: Brown University
+#    - name: Zoe Marschner
+#      affiliation: Carnegie Mellon University
+#  abstract: The application of deep learning to geometry processing gives rise to many questions: What kind of tasks are well suited for these new methods? How do deep learning methods play with existing geometry processing techniques? In this course, we'll first discuss geometry tasks that we can solve with learning, touching on tasks involving global analysis, local analysis, synthesis and more. Then, we'll turn to a discussion of traditional ways of representing geometry and how these representations interact with learning methods—looking at the architectures needed to perform learning tasks on these representations and the pros and cons of different choices of representation. We'll then turn to another representation: neural implicits, in which the geometry itself is represented by a neural network. We'll introduce neural implicits, and talk about how to work with them, when they are useful, and some of their outstanding problems.
+#     ***June 22, 9:00 - 10:30***
 #     
 #     Geometry processing is a vital component for solving 3D shape-matching problems that have significant relevance in enabling various downstream tasks like artistic designs, CAD modeling, and medical analysis. With the advent of data-driven solutions, flexible alignment techniques have become essential tools to unleash the potential of deep learning methods. This tutorial introduces the Functional Maps paradigm, one of the main frameworks for the past decade. We will explain the main concepts of this elegant and flexible framework on graphs, and then develop the necessary tools for triangular mesh cases. We will review the crucial steps of this long-standing literature, from its inception to the advent of geometric deep learning. Additionally, we will highlight the latest and most promising research directions, giving participants a comprehensive understanding of the current state-of-the-art in this field.  
       
