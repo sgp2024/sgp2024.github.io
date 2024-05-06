@@ -101,3 +101,54 @@ Presenters are invited to use the following official SGP 2021 slide templates:
 - [Keynote](/sgp2021-template.key)
 - [Google Slides](https://docs.google.com/presentation/d/17-VHCqHj1xvBBY2gsdsRVouOcCaEBordeZ4zlFvJbaY/edit?usp=sharing) `(File > Make a Copy > Entire Presentation)`
 -------------------------->
+
+## Call for Posters
+
+We invite authors to submit proposals for poster presentations that highlight innovative research, preliminary findings, novel ideas, ongoing projects in the field of geometry processing, as well as refined methods or applications of already published research. We welcome submissions from a wide range of topics, including but not limited to:
+
+- Acquisition and reconstruction
+- 3D printing analysis and fabrication
+- Architectural geometry
+- Computational geometry
+- Differentiable rendering
+- Discrete differential geometry
+- Shape collection exploration
+- Data structures and representations for geometry and topology
+- Geometry compression
+- Geometric deep learning
+- Geometric representations for machine learning
+- Interactive techniques
+- Meshing, remeshing, and multiresolution modeling
+- Multimodal shape processing
+- Neural shape representations
+- Point cloud processing
+- Processing of large geometric datasets
+- Shape analysis, synthesis, and animation
+- Surface and volume parameterization and deformation
+
+Note that the posters will be presented at the conference but will not be published otherwise.
+
+### Submission Details
+
+Poster submissions should include a 2-page abstract that summarizes the poster content and is formatted according to the Author’s guidelines.
+
+Submissions should be made electronically through the Submission and Review Management (SRMv2) system: https://srmv2.eg.org/COMFy/Conference/SGP_2024P 
+
+The submission process is not anonymous.
+
+### Timeline
+
+<div style="text-align: center; list-style-position: inside;">
+
+- *Poster Submission Deadline:* May 26, 2024, 23:59 UTC <br> 
+- *Notification of Acceptance:* June 3, 2024, 23:59 UTC <br> 
+- *SGP Conference:* June 24-26, 2024
+
+</div>
+
+### Poster Presentation
+
+At least one author of each accepted poster is expected to be present at the SGP 2024 conference to discuss their work during the dedicated poster session. Authors will be in charge of printing the poster, many printing services are available around the conference venue. Posters will be displayed throughout the conference, and authors will have the opportunity to present their work and engage with attendees.
+
+We look forward to your contributions and to an engaging and informative poster session at SGP 2024!
+

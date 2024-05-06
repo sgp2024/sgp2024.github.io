@@ -26,17 +26,17 @@ speakers:
     portrait: /images/xin.jpg   
 
 graduateSchoolCourses:
-#- title: Deep Learning for 3D Geometry
+#- title: Equivariant Neural Networks
 #  teaser: /images/school-discrete.png
 #  speakers:
-#    - name: Daniel Ritchie 
-#      affiliation: Brown University
-#    - name: Zoe Marschner
-#      affiliation: Carnegie Mellon University
-#  abstract: The application of deep learning to geometry processing gives rise to many questions: What kind of tasks are well suited for these new methods? How do deep learning methods play with existing geometry processing techniques? In this course, we'll first discuss geometry tasks that we can solve with learning, touching on tasks involving global analysis, local analysis, synthesis and more. Then, we'll turn to a discussion of traditional ways of representing geometry and how these representations interact with learning methods—looking at the architectures needed to perform learning tasks on these representations and the pros and cons of different choices of representation. We'll then turn to another representation: neural implicits, in which the geometry itself is represented by a neural network. We'll introduce neural implicits, and talk about how to work with them, when they are useful, and some of their outstanding problems.
+#    - name: Robin Walters 
+#      affiliation: Northeastern University
+#    - name: Jung Yeon Park
+#      affiliation: Northeastern University
+#  abstract: Despite the success of deep learning, there remain challenges to progress. Deep models require vast datasets to train, can fail to generalize under surprisingly small changes in domain, and lack guarantees on performance. Incorporating symmetry constraints into neural networks has resulted in models called equivariant neural networks (ENNs) which have helped address these challenges. I will discuss several applications, such as radar signal processing, computer vision, and robot manipulation.
 #     ***June 22, 9:00 - 10:30***
 #     
-#     Geometry processing is a vital component for solving 3D shape-matching problems that have significant relevance in enabling various downstream tasks like artistic designs, CAD modeling, and medical analysis. With the advent of data-driven solutions, flexible alignment techniques have become essential tools to unleash the potential of deep learning methods. This tutorial introduces the Functional Maps paradigm, one of the main frameworks for the past decade. We will explain the main concepts of this elegant and flexible framework on graphs, and then develop the necessary tools for triangular mesh cases. We will review the crucial steps of this long-standing literature, from its inception to the advent of geometric deep learning. Additionally, we will highlight the latest and most promising research directions, giving participants a comprehensive understanding of the current state-of-the-art in this field.  
+#     Despite the success of deep learning, there remain challenges to progress. Deep models require vast datasets to train, can fail to generalize under surprisingly small changes in domain, and lack guarantees on performance. Incorporating symmetry constraints into neural networks has resulted in models called equivariant neural networks (ENNs) which have helped address these challenges. I will discuss several applications, such as radar signal processing, computer vision, and robot manipulation.  
       
 #- title: Hands-On Introduction to FEM in Python
 #  teaser: /images/school-Python.png
