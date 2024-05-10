@@ -89,6 +89,11 @@ Params:
        - name: "Agnostiq.аi"
          logo: "images/sponsors/agnostiq_logo.png"
    - name: ""
+     id: "gold"
+     items:
+       - name: "Roblox"
+         logo: "images/sponsors/roblox.jpg"
+   - name: ""
      id: "silver"
      items:
        - name: "Disney Research Studios"
