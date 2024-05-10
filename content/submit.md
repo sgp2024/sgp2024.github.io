@@ -140,7 +140,7 @@ The submission process is not anonymous.
 
 <div style="text-align: center; list-style-position: inside;">
 
-- *Poster Submission Deadline:* May 27, 2024, 23:59 UTC <br> 
+- *Poster Submission Deadline:* May 26, 2024, 23:59 UTC <br> 
 - *Notification of Acceptance:* June 3, 2024, 23:59 UTC <br> 
 - *SGP Conference:* June 24-26, 2024
 
