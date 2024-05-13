@@ -39,3 +39,10 @@ We are pleased to announce a student travel grant to cover up to $1,000 of expen
 
 Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSf79smFNvNmeX4RDXKDmrSsfVt2_d3f87nC7EXQs2xAKuc-5Q/viewform) to apply by May 24, 2024.
 
+
+## Boston Area Students Registration Grant
+
+E14 Fund, the MIT-affiliated early stage VC, is offering to cover registration costs for two Boston area students to attend the Symposium on Geometry Processing (SGP) at the Massachusetts Institute of Technology (June 22-26, 2024).
+
+Please submit your application by May 24, 2024 by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfkd8CrD3QchJw2pHb24n6B6jctlaVvYT7Oyln5FBiQ4_Z3fw/viewform).
+
