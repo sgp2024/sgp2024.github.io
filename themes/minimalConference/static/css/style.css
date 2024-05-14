@@ -405,6 +405,14 @@ ul#silver-sponsor-list
   padding: 0;
   margin: 0;
 }
+
+ul#bronze-sponsor-list
+{
+  font-size: 0.8em;
+  padding: 0;
+  margin: 0;
+}
+
 ul#institutional-sponsor-list
 {
   font-size: 1.0em;
@@ -586,6 +594,13 @@ div.twitter-container
 img.logo_institutional
 {
   width: 50%;
+  max-width: calc(0.5 * var(--logoMaxWidth));
+  padding-bottom: 10px;
+}
+
+img.logo_bronze
+{
+  width: 25%;
   max-width: calc(0.5 * var(--logoMaxWidth));
   padding-bottom: 10px;
 }

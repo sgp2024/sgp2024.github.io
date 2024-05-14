@@ -103,6 +103,11 @@ Params:
      items:
        - name: "Altair"
          logo: "images/sponsors/altair_logo.jpg"
+   - name: "Software Award Sponsor"
+     id: "bronze"
+     items:
+       - name: "Altair"
+         logo: "images/sponsors/geometryfactory.png"
   importantDates:    
    - id: abstract_submission
      date: "April 10, 2024, 23:59 UTC"
