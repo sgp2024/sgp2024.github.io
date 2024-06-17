@@ -149,35 +149,151 @@ graduateSchoolCourses:
     ***June 23, 3:30 pm - 5:00 pm***
 
 paperSessions: 
-#- name: Meshing (Monday 10:45-12:45)
-#  papers:
-#      - title: "HalfedgeCNN for Native and Flexible Deep Learning on Triangle Meshes"
-#        authors:
-#          - name: Daniel Tyson
-#          - name: Ingmar Ludwig        
-#          - name: Marcel Campen
-#      - title: "HexBox: Interactive Box Modeling of Hexahedral Meshes"
-#        authors:
-#          - name: Francesco Zoccheddu          
-#          - name: Enrico Gobbetti
-#          - name: Marco Livesu
-#          - name: Nico Pietroni
-#          - name: Gianmarco Cherchi                    
-#      - title: "Quadratic-Attraction Subdivision"
-#        authors:
-#          - name: Kestutis Karciauskas
-#          - name: Jorg Peters          
-#
-#- name: 2D Geometry (Monday 15:00-16:00)  
-#  papers:
-#      - title: "Singularity-Free Frame Fields for Line Drawing Vectorization"      
-#        authors:
-#          - name: Olga Guțan        
-#          - name: Shreya Hegde         
-#      - title: "Variational Pruning of Medial Axes of Planar Shapes"   
-#        authors:
-#          - name: Peter Rong           
-#          - name: Tao Ju
+- name: Distances (Monday, June 24, 10:30 am - 12:00 pm)
+  papers:
+      - title: "1-Lipschitz Neural Distance Fields"
+        authors:
+          - name: Guillaume Coiffier
+          - name: Louis Bethune   
+      - title: "Triangle influence supersets for fast distance computation"
+        authors:
+          - name: Eduard Pujol          
+          - name: Antonio Chica                   
+      - title: "Cascading upper bounds for triangle soup Pompeiu-Hausdorff distance"
+        authors:
+          - name: Leonardo Sacht
+          - name: Alec Jacobson         
+
+- name: Repair and reconstruct (Monday, June 24, 2:00 pm - 3:00 pm)  
+  papers:
+      - title: "Distributed Poisson Surface Reconstruction"      
+        authors:
+          - name: Michael Kazhdan        
+          - name: Hugues Hoppe        
+      - title: "Visual-Preserving Mesh Repair"   
+        authors:
+          - name: Zhongtian Zheng           
+          - name: Xifeng Gao
+          - name: Zherong Pan
+          - name: Wei Li
+          - name: Peng-Shuai Wang
+          - name: Guoping Wang
+          - name: Kui Wu
+
+- name: Simplify and compress (Monday, June 24, 4:00 pm - 5:00 pm)  
+  papers:
+      - title: "A Partition Based Method for Spectrum-Preserving Mesh Simplification"      
+        authors:
+          - name: Misranur Yazgan        
+          - name: Yusuf Sahillioglu        
+      - title: "Entropy-driven Progressive Compression of 3D Point Clouds"   
+        authors:
+          - name: Nachwa Abou Bakr           
+          - name: Pierre Alliez
+          - name: Armand Zampieri
+          - name: Guillaume Delarue
+
+- name: Meshing (Tuesday, June 25, 10:30 am - 12:00 pm)  
+  papers:
+      - title: "Integer-Sheet-Pump Quantization for Hexahedral Meshing"      
+        authors:
+          - name: David Bommes        
+          - name: Marcel Campen
+          - name: Hendrik Brückler
+          - name: Marco Livesu
+          - name: Qingnan Zhou
+          - name: Kenshi Takayama         
+      - title: "Anisotropy and Cross Fields"   
+        authors:
+          - name: Lance Simons           
+          - name: Annamaria Amenta
+      - title: "Optimized Dual-Volumes for Tetrahedral Meshes"   
+        authors:
+          - name: Alec Jacobson
+
+- name: Parametrization and curves (Tuesday, June 25, 2:00 pm - 3:30 pm)  
+  papers:
+      - title: "Mesh Parameterization Meets Intrinsic Triangulations"      
+        authors:
+          - name: Marc Alexa        
+          - name: Ugo Finnendahl
+          - name: Koray Akalin
+          - name: Olga Sorkine-Hornung         
+      - title: "Distance-Based Smoothing of Curves on Surface Meshes"   
+        authors:
+          - name: Markus Pawellek           
+          - name: Kai Lawonn
+          - name: Christian Roessl
+      - title: "Reconstructing Curves from Sparse Samples on Riemannian Manifolds"   
+        authors:
+          - name: Filippo Maggioli          
+          - name: Michael Wimmer
+          - name: Stefan Ohrhallinger
+          - name: Simone Melzi
+          - name: Diana Marin
+
+- name: Modeling for fabrication (Tuesday, June 25, 4:00 pm - 5:00 pm)  
+  papers:
+      - title: "KerGen: A Kernel Computation Algorithm for 3D Polygon Meshes"      
+        authors:
+          - name: Merve Asiler        
+          - name: Yusuf Sahillioglu         
+      - title: "Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D"   
+        authors:
+          - name: Aalok Gangopadhyay           
+          - name: Tarun Sharma
+          - name: Shanmuganathan Raman
+          - name: Prajwal Singh
+          - name: Paras Gupta
+
+- name: Optimizing and simulating shapes (Wednesday, June 26, 10:30 am - 12:00 pm)  
+  papers:
+      - title: "Cut-Cell Microstructures for Two-scale Structural Optimization"      
+        authors:
+          - name: Zizhou Huang        
+          - name: Denis Zorin
+          - name: Daniele Panozzo
+          - name: Davi Colli Tozoni         
+      - title: "On shape design and optimization of gerotor pumps"   
+        authors:
+          - name: Asier Pedrera-Busselo           
+          - name: Aitor Moreno
+          - name: Juan Pareja-Corcho
+          - name: Jorge Posada
+          - name: Michael Barton
+          - name: Daniel Parra
+      - title: "Large-Strain Surface Modeling Using Plasticity"   
+        authors:
+          - name: Jiahao Wen           
+          - name: Bohan Wang
+          - name: Jernej Barbic
+
+- name: Shape analysis (Wednesday, June 26, 2:00 pm - 3:30 pm)  
+  papers:
+      - title: "Winding Number Features for Vector Sketch Colorization"      
+        authors:
+          - name: Edward Chien        
+          - name: Catherine Coldren 
+          - name: Daniel Scrivener        
+      - title: "Stability for Inference with Persistent Homology Rank Functions"   
+        authors:
+          - name: Ines Garcia Redondo           
+          - name: Pierre Faugère
+          - name: Anthea Monod
+          - name: Gregory Henselman-Petrusek
+          - name: Qiquan Wang
+      - title: "Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization"   
+        authors:
+          - name: Zhiyang Dou           
+          - name: Yuan Liu
+          - name: Cheng Lin
+          - name: Xiaoxiao Long
+          - name: Wenping Wang
+          - name: Xiaoming Yuan
+          - name: Zimeng Wang
+          - name: Rui Xu
+          - name: TAKU Komura
+          - name: Shiqing Xin
 
 
 ---  
