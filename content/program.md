@@ -188,21 +188,18 @@ paperSessions:
           - name: Yusuf Sahillioglu        
       - title: "Entropy-driven Progressive Compression of 3D Point Clouds"   
         authors:
-          - name: Nachwa Abou Bakr           
-          - name: Pierre Alliez
           - name: Armand Zampieri
           - name: Guillaume Delarue
+          - name: Nachwa Abou Bakr           
+          - name: Pierre Alliez
 
 - name: Meshing (Tuesday, June 25, 10:30 am - 12:00 pm)  
   papers:
       - title: "Integer-Sheet-Pump Quantization for Hexahedral Meshing"      
         authors:
-          - name: David Bommes        
-          - name: Marcel Campen
           - name: Hendrik Brückler
-          - name: Marco Livesu
-          - name: Qingnan Zhou
-          - name: Kenshi Takayama         
+          - name: David Bommes        
+          - name: Marcel Campen       
       - title: "Anisotropy and Cross Fields"   
         authors:
           - name: Lance Simons           
@@ -215,22 +212,22 @@ paperSessions:
   papers:
       - title: "Mesh Parameterization Meets Intrinsic Triangulations"      
         authors:
-          - name: Marc Alexa        
+          - name: Koray Akalin        
           - name: Ugo Finnendahl
-          - name: Koray Akalin
-          - name: Olga Sorkine-Hornung         
+          - name: Olga Sorkine-Hornung
+          - name: Marc Alexa         
       - title: "Distance-Based Smoothing of Curves on Surface Meshes"   
         authors:
-          - name: Markus Pawellek           
+          - name: Markus Pawellek
+          - name: Christian Rössl           
           - name: Kai Lawonn
-          - name: Christian Roessl
       - title: "Reconstructing Curves from Sparse Samples on Riemannian Manifolds"   
         authors:
-          - name: Filippo Maggioli          
-          - name: Michael Wimmer
-          - name: Stefan Ohrhallinger
-          - name: Simone Melzi
           - name: Diana Marin
+          - name: Filippo Maggioli
+          - name: Simone Melzi  
+          - name: Stefan Ohrhallinger        
+          - name: Michael Wimmer
 
 - name: Modeling for fabrication (Tuesday, June 25, 4:00 pm - 5:00 pm)  
   papers:
@@ -241,27 +238,27 @@ paperSessions:
       - title: "Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D"   
         authors:
           - name: Aalok Gangopadhyay           
-          - name: Tarun Sharma
-          - name: Shanmuganathan Raman
-          - name: Prajwal Singh
           - name: Paras Gupta
+          - name: Tarun Sharma
+          - name: Prajwal Singh
+          - name: Shanmuganathan Raman
 
 - name: Optimizing and simulating shapes (Wednesday, June 26, 10:30 am - 12:00 pm)  
   papers:
       - title: "Cut-Cell Microstructures for Two-scale Structural Optimization"      
         authors:
+          - name: Davi Colli Tozoni
           - name: Zizhou Huang        
-          - name: Denis Zorin
           - name: Daniele Panozzo
-          - name: Davi Colli Tozoni         
+          - name: Denis Zorin        
       - title: "On shape design and optimization of gerotor pumps"   
         authors:
-          - name: Asier Pedrera-Busselo           
-          - name: Aitor Moreno
           - name: Juan Pareja-Corcho
-          - name: Jorge Posada
           - name: Michael Barton
-          - name: Daniel Parra
+          - name: Asier Pedrera-Busselo
+          - name: Daniel Mejia-Parra           
+          - name: Aitor Moreno
+          - name: Jorge Posada
       - title: "Large-Strain Surface Modeling Using Plasticity"   
         authors:
           - name: Jiahao Wen           
@@ -272,28 +269,28 @@ paperSessions:
   papers:
       - title: "Winding Number Features for Vector Sketch Colorization"      
         authors:
-          - name: Edward Chien        
-          - name: Catherine Coldren 
           - name: Daniel Scrivener        
+          - name: Ellis Coldren
+          - name: Edward Chien        
       - title: "Stability for Inference with Persistent Homology Rank Functions"   
         authors:
+          - name: Qiquan Wang
           - name: Ines Garcia Redondo           
           - name: Pierre Faugère
-          - name: Anthea Monod
           - name: Gregory Henselman-Petrusek
-          - name: Qiquan Wang
+          - name: Anthea Monod    
       - title: "Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization"   
         authors:
-          - name: Zhiyang Dou           
-          - name: Yuan Liu
-          - name: Cheng Lin
-          - name: Xiaoxiao Long
-          - name: Wenping Wang
-          - name: Xiaoming Yuan
           - name: Zimeng Wang
-          - name: Rui Xu
-          - name: TAKU Komura
+          - name: Zhiyang Dou  
+          - name: Rui Xu  
+          - name: Cheng Lin       
+          - name: Yuan Liu
+          - name: Xiaoxiao Long
           - name: Shiqing Xin
+          - name: Taku Komura
+          - name: Xiaoming Yuan
+          - name: Wenping Wang
 
 
 ---  
