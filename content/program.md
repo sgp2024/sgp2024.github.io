@@ -35,10 +35,12 @@ graduateSchoolCourses:
     - name: Jung Yeon Park
       url: https://jypark0.github.io
       affiliation: Northeastern University
-  abstract: Despite the success of deep learning, there remain challenges to progress. Deep models require vast datasets to train, can fail to generalize under surprisingly small changes in domain, and lack guarantees on performance. Incorporating symmetry constraints into neural networks has resulted in models called equivariant neural networks (ENNs) which have helped address these challenges. I will discuss several applications, such as radar signal processing, computer vision, and robot manipulation.
+  abstract: |
+    ***June 22, 9:00 am - 10:30 am***
+
+    Despite the success of deep learning, there remain challenges to progress. Deep models require vast datasets to train, can fail to generalize under surprisingly small changes in domain, and lack guarantees on performance. Incorporating symmetry constraints into neural networks has resulted in models called equivariant neural networks (ENNs) which have helped address these challenges. I will discuss several applications, such as radar signal processing, computer vision, and robot manipulation.
     
 
-    ***June 22, 9:00 am - 10:30 am***
      
       
 - title: Deep Learning for 3D Geometry
@@ -50,10 +52,11 @@ graduateSchoolCourses:
     - name: Zoë Marschner
       url: https://zoemarschner.com
       affiliation: Carnegie Mellon University
-  abstract: The application of deep learning to geometry processing gives rise to many questions What kind of tasks are well suited for these new methods? How do deep learning methods play with existing geometry processing techniques? In this course, we'll first discuss geometry tasks that we can solve with learning, touching on tasks involving global analysis, local analysis, synthesis and more. Then, we'll turn to a discussion of traditional ways of representing geometry and how these representations interact with learning methods—looking at the architectures needed to perform learning tasks on these representations and the pros and cons of different choices of representation. We'll then turn to another representation neural implicits, in which the geometry itself is represented by a neural network. We'll introduce neural implicits, and talk about how to work with them, when they are useful, and some of their outstanding problems.
-    
-
+  abstract: |
     ***June 22, 11:00 am - 12:30 pm***
+
+    The application of deep learning to geometry processing gives rise to many questions What kind of tasks are well suited for these new methods? How do deep learning methods play with existing geometry processing techniques? In this course, we'll first discuss geometry tasks that we can solve with learning, touching on tasks involving global analysis, local analysis, synthesis and more. Then, we'll turn to a discussion of traditional ways of representing geometry and how these representations interact with learning methods—looking at the architectures needed to perform learning tasks on these representations and the pros and cons of different choices of representation. We'll then turn to another representation neural implicits, in which the geometry itself is represented by a neural network. We'll introduce neural implicits, and talk about how to work with them, when they are useful, and some of their outstanding problems.
+
 
 
 - title: Fundamentals and Applications of Sketch Processing
@@ -64,10 +67,11 @@ graduateSchoolCourses:
       affiliation: University of Montreal
     - name: Chenxi Liu
       affiliation: University of Toronto
-  abstract: Sketches serve as a powerful medium for visual creation and communication, and are commonly used as an intuitive means to edit and model 2D or 3D shapes. This tutorial will explore sketches as a geometry representation strokes can be viewed as 1D curves on 2D or 3D domain, forming complex often non-manifold shapes. We will begin by discussing the common representations of sketches, examining their key geometric and topological properties, and addressing concepts about perception that are essential for processing human-created sketches. Building on these fundamentals, the tutorial will continue to cover research and developments in sketch processing, starting with methods that process sketches at the stroke level. We will then explore applications taking sketches as inputs and discuss advancements in learning-based methods that enhance sketch processing. (Image copyright (C) Olga Posukh.)
-    
-
+  abstract: |
     ***June 22, 2:00 pm - 3:30 pm***
+
+    Sketches serve as a powerful medium for visual creation and communication, and are commonly used as an intuitive means to edit and model 2D or 3D shapes. This tutorial will explore sketches as a geometry representation strokes can be viewed as 1D curves on 2D or 3D domain, forming complex often non-manifold shapes. We will begin by discussing the common representations of sketches, examining their key geometric and topological properties, and addressing concepts about perception that are essential for processing human-created sketches. Building on these fundamentals, the tutorial will continue to cover research and developments in sketch processing, starting with methods that process sketches at the stroke level. We will then explore applications taking sketches as inputs and discuss advancements in learning-based methods that enhance sketch processing. (Image copyright (C) Olga Posukh.)
+    
 
 
 - title: Introduction to Optimization Time Integration for Solids and Fluids
@@ -79,10 +83,11 @@ graduateSchoolCourses:
     - name: Jiayi (Eris) Zhang
       url: https://eriszhang.github.io
       affiliation: Stanford University
-  abstract: Second-order optimization methods, such as Newton's Method, are critical not only in geometry processing for applications like shape deformation and mesh parameterization but also in the robust and accurate simulation of solid and fluid dynamics. In the first part of this course, we will provide a high-level overview of optimization time integration methods, starting from a geometric perspective focused on distortion minimization. Participants will learn how to extend distortion minimization methods to an elastodynamic simulation framework and will explore methods for simulating a variety of materials and phenomena, including cloth, hair, stiff objects, contacts, and fluids. The session also links to a comprehensive online book and a set of illustrative Python examples for the elastodynamic contact part to enhance understanding. In the second part of the course, we will show how various recent advancements in elastodynamic simulation are rooted in such a shared framework. This framework readily supports extensions like subspace methods for fast simulations, enhancements to rig-based animations with physical secondary motion, and the integration of multilevel methods for rapid previews and enhanced user interactivity, among many other applications. By the end of this course, attendees will gain a deeper insight into the close connection between geometry processing and physics-based simulation.
-    
-
+  abstract: |
     ***June 22, 4:00 pm - 5:30 pm***
+
+    Second-order optimization methods, such as Newton's Method, are critical not only in geometry processing for applications like shape deformation and mesh parameterization but also in the robust and accurate simulation of solid and fluid dynamics. In the first part of this course, we will provide a high-level overview of optimization time integration methods, starting from a geometric perspective focused on distortion minimization. Participants will learn how to extend distortion minimization methods to an elastodynamic simulation framework and will explore methods for simulating a variety of materials and phenomena, including cloth, hair, stiff objects, contacts, and fluids. The session also links to a comprehensive online book and a set of illustrative Python examples for the elastodynamic contact part to enhance understanding. In the second part of the course, we will show how various recent advancements in elastodynamic simulation are rooted in such a shared framework. This framework readily supports extensions like subspace methods for fast simulations, enhancements to rig-based animations with physical secondary motion, and the integration of multilevel methods for rapid previews and enhanced user interactivity, among many other applications. By the end of this course, attendees will gain a deeper insight into the close connection between geometry processing and physics-based simulation.
+    
 
 
 - title: Geometric Techniques for Digital Fabrication
@@ -94,14 +99,14 @@ graduateSchoolCourses:
     - name: Marco Livesu
       url: http://pers.ge.imati.cnr.it/livesu/
       affiliation: IMATI-CNR
-  abstract: Digital fabrication is gathering increasing interest for its potential to revolutionize manufacturing. By leveraging computer-aided design (CAD) and additive manufacturing techniques, such as 3D printing, digital fabrication allows for rapid prototyping, customization, and complex geometries that would be challenging or impossible to achieve with traditional manufacturing methods. This shift towards digital methods offers significant reductions in waste and energy consumption, aligning with sustainable practices and the growing demand for eco-friendly production. 
+  abstract: |
+    ***June 23, 9:00 am - 10:30 am***
+
+    Digital fabrication is gathering increasing interest for its potential to revolutionize manufacturing. By leveraging computer-aided design (CAD) and additive manufacturing techniques, such as 3D printing, digital fabrication allows for rapid prototyping, customization, and complex geometries that would be challenging or impossible to achieve with traditional manufacturing methods. This shift towards digital methods offers significant reductions in waste and energy consumption, aligning with sustainable practices and the growing demand for eco-friendly production. 
 
     In such a context, geometry processing plays a pivotal role as an enabler to create and manipulate geometric data to optimize shapes and structures for manufacturing. Effective geometry processing can lead to more efficient use of materials, improved product strength and functionality, and the ability to create intricate designs that meet precise specifications. A strong synergy between geometry processing and digital fabrication is essential for advancing the capabilities and applications of manufacturing in the digital age. 
 
-    This lecture gives an overview of various manufacturing technologies, explaining their strenghts and limitations, and showing how clever geometric techniques are necessary to best exploit them. We describe the main approaches to cope with each single step along the processing pipeline that prepares the 3D model for fabrication, and show how to actually implement some of the most important algorithms along the pipeline. Finally, we discuss open and challenging problems from both an academic and an industrial perspective.
-    
-
-    ***June 23, 9:00 am - 10:30 am*** 
+    This lecture gives an overview of various manufacturing technologies, explaining their strenghts and limitations, and showing how clever geometric techniques are necessary to best exploit them. We describe the main approaches to cope with each single step along the processing pipeline that prepares the 3D model for fabrication, and show how to actually implement some of the most important algorithms along the pipeline. Finally, we discuss open and challenging problems from both an academic and an industrial perspective. 
 
 
 - title: Introduction to Physically-Based Rendering Related to Geometry Simplification
@@ -112,10 +117,11 @@ graduateSchoolCourses:
     - name: Junqiu Zhu
       url: http://junqiuzhu.com
       affiliation: University of California Santa Barbara
-  abstract: Physically-based rendering (PBR) is a method of shading and rendering that provides a more accurate representation of how light interacts with material properties. A pivotal technique within PBR is ray tracing, which realistically simulates the lighting of a scene. This technique involves tracing the path of light as it travels from the camera through the pixel plane and interacts with objects in the 3D scene before reflecting back to the light sources. Despite its advantages, ray tracing and the rendering of detailed geometries, especially in dynamic scenes like cloth rendering, are computationally demanding. To balance performance with visual fidelity, geometry simplification is often employed. This involves reducing the complexity of 3D models while trying to maintain an appearance that is as close as possible to the original. The trade-off between the level of geometry simplification and the resulting appearance is crucial, as excessive simplification can lead to a loss of realism, particularly in how materials and light interact. In this course we will first introduce the basic concept of physically-based rendering and ray-tracing, and then we will highlight the challenges and considerations in achieving both efficient and visually compelling results by balancing the geometry.
-    
-
+  abstract: |
     ***June 23, 11:00 am - 12:30 pm***
+
+    Physically-based rendering (PBR) is a method of shading and rendering that provides a more accurate representation of how light interacts with material properties. A pivotal technique within PBR is ray tracing, which realistically simulates the lighting of a scene. This technique involves tracing the path of light as it travels from the camera through the pixel plane and interacts with objects in the 3D scene before reflecting back to the light sources. Despite its advantages, ray tracing and the rendering of detailed geometries, especially in dynamic scenes like cloth rendering, are computationally demanding. To balance performance with visual fidelity, geometry simplification is often employed. This involves reducing the complexity of 3D models while trying to maintain an appearance that is as close as possible to the original. The trade-off between the level of geometry simplification and the resulting appearance is crucial, as excessive simplification can lead to a loss of realism, particularly in how materials and light interact. In this course we will first introduce the basic concept of physically-based rendering and ray-tracing, and then we will highlight the challenges and considerations in achieving both efficient and visually compelling results by balancing the geometry.
+  
 
 
 - title: Geometry Processing Research in Python
@@ -124,10 +130,11 @@ graduateSchoolCourses:
     - name: Oded Stein
       url: https://odedstein.com
       affiliation: University of Southern California
-  abstract: Are you new to geometry processing research, or are you new to geometry processing in Python? This course will teach you all you need to quickly get started with geometry processing in Python. We will learn how to prototype using the NumPy, Gpytoolbox and Polyscope libraries. If you are already used to MATLAB or libigl, then this will be an easy transition. If you are completely new to the field, then you will learn how to quickly translate your geometry ideas into computer code. The only required prerequisite for this class is basic Python knowledge.
-    
+  abstract: |
+    ***June 23, 2:00 pm - 3:00 pm***
 
-    ***June 23, 2:00 pm - 3:00 pm***        
+    Are you new to geometry processing research, or are you new to geometry processing in Python? This course will teach you all you need to quickly get started with geometry processing in Python. We will learn how to prototype using the NumPy, Gpytoolbox and Polyscope libraries. If you are already used to MATLAB or libigl, then this will be an easy transition. If you are completely new to the field, then you will learn how to quickly translate your geometry ideas into computer code. The only required prerequisite for this class is basic Python knowledge.
+            
 
 
 - title: Monte Carlo Geometry Processing
@@ -139,17 +146,19 @@ graduateSchoolCourses:
     - name: Bailey Miller
       url: https://www.bailey-miller.com
       affiliation: Carnegie Mellon University
-  abstract: The ability to accurately analyze large amounts of geometric information is fundamental to many scientific and engineering disciplines, ranging from geology to medicine, and autonomous driving to industrial design. Techniques based on partial differential equations (PDEs) provide powerful tools for analyzing many physical systems, but conventional grid-based methods for solving PDEs are not yet at a stage where they “just work” on problems of real-world complexity. A constant challenge is the need for spatial discretization, which traditionally involves dividing the domain into a high-quality volumetric mesh to perform PDE-based analysis. Unfortunately, this approach does not scale well to modern computer architectures as it is inherently sequential and memory intensive, and as such, there remains a large divide between our ability to visualize and analyze the natural world.
+  abstract: |
+    ***June 23, 3:30 pm - 5:00 pm***
+
+    The ability to accurately analyze large amounts of geometric information is fundamental to many scientific and engineering disciplines, ranging from geology to medicine, and autonomous driving to industrial design. Techniques based on partial differential equations (PDEs) provide powerful tools for analyzing many physical systems, but conventional grid-based methods for solving PDEs are not yet at a stage where they “just work” on problems of real-world complexity. A constant challenge is the need for spatial discretization, which traditionally involves dividing the domain into a high-quality volumetric mesh to perform PDE-based analysis. Unfortunately, this approach does not scale well to modern computer architectures as it is inherently sequential and memory intensive, and as such, there remains a large divide between our ability to visualize and analyze the natural world.
 
     Techniques based on the walk on spheres (WoS) algorithm make a radical departure from conventional PDE solvers, by reformulating the solution to fundamental PDEs like the Poisson equation as recursive integrals that can be solved using the Monte Carlo method. Since these integrals closely resemble those found in light transport theory, we can leverage deep knowledge from Monte Carlo rendering to build new scalable algorithms for solving PDEs with vastly different numerical tradeoffs, such as avoiding volumetric meshing altogether.
 
     This course will provide a broad overview of grid-free Monte Carlo methods for PDEs, with an emphasis on teaching the key principles of Monte Carlo, from sample generation and variance reduction to system design, by ways of WoS and its recent generalizations.
     
 
-    ***June 23, 3:30 pm - 5:00 pm***
-
 paperSessions: 
 - name: Distances (Monday, June 24, 10:30 am - 12:00 pm)
+  chair: Marc Alexa
   papers:
       - title: "1-Lipschitz Neural Distance Fields"
         authors:
@@ -165,7 +174,8 @@ paperSessions:
           - name: Alec Jacobson         
 
 - name: Repair and reconstruct (Monday, June 24, 2:00 pm - 3:00 pm)  
-  papers:
+  chair: Pierre Alliez
+  papers: 
       - title: "Distributed Poisson Surface Reconstruction"      
         authors:
           - name: Michael Kazhdan        
@@ -181,6 +191,7 @@ paperSessions:
           - name: Kui Wu
 
 - name: Simplify and compress (Monday, June 24, 4:00 pm - 5:00 pm)  
+  chair: Daniele Panozzo
   papers:
       - title: "A Partition Based Method for Spectrum-Preserving Mesh Simplification"      
         authors:
@@ -193,7 +204,8 @@ paperSessions:
           - name: Nachwa Abou Bakr           
           - name: Pierre Alliez
 
-- name: Meshing (Tuesday, June 25, 10:30 am - 12:00 pm)  
+- name: Meshing (Tuesday, June 25, 10:30 am - 12:00 pm)
+  chair: Amir Vaxman  
   papers:
       - title: "Integer-Sheet-Pump Quantization for Hexahedral Meshing"      
         authors:
@@ -208,7 +220,8 @@ paperSessions:
         authors:
           - name: Alec Jacobson
 
-- name: Parametrization and curves (Tuesday, June 25, 2:00 pm - 3:30 pm)  
+- name: Parametrization and curves (Tuesday, June 25, 2:00 pm - 3:30 pm)
+  chair: Qingnan Zhou  
   papers:
       - title: "Mesh Parameterization Meets Intrinsic Triangulations"      
         authors:
@@ -229,7 +242,8 @@ paperSessions:
           - name: Stefan Ohrhallinger        
           - name: Michael Wimmer
 
-- name: Modeling for fabrication (Tuesday, June 25, 4:00 pm - 5:00 pm)  
+- name: Modeling for fabrication (Tuesday, June 25, 4:00 pm - 5:00 pm)
+  chair: Haisen Zhao  
   papers:
       - title: "KerGen: A Kernel Computation Algorithm for 3D Polygon Meshes"      
         authors:
@@ -243,7 +257,8 @@ paperSessions:
           - name: Prajwal Singh
           - name: Shanmuganathan Raman
 
-- name: Optimizing and simulating shapes (Wednesday, June 26, 10:30 am - 12:00 pm)  
+- name: Optimizing and simulating shapes (Wednesday, June 26, 10:30 am - 12:00 pm)
+  chair: Kui Wu  
   papers:
       - title: "Cut-Cell Microstructures for Two-scale Structural Optimization"      
         authors:
@@ -265,7 +280,8 @@ paperSessions:
           - name: Bohan Wang
           - name: Jernej Barbic
 
-- name: Shape analysis (Wednesday, June 26, 2:00 pm - 3:30 pm)  
+- name: Shape analysis (Wednesday, June 26, 2:00 pm - 3:30 pm)
+  chair: Oded Stein  
   papers:
       - title: "Winding Number Features for Vector Sketch Colorization"      
         authors:
