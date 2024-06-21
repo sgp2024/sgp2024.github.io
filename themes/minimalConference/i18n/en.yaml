@@ -20,6 +20,8 @@
   translation: "Accommodation"
 - id: social_events
   translation: "Social Events"
+- id: local_info
+  translation: "Local Info"
 - id: organization
   translation: "Organization"
 - id: awards
