@@ -4,31 +4,30 @@ layout: "simple-static"
 type: "page"
 ---
 
-TBD
-<!---
-Following its traditions, SGP 2023 will attribute three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a test of time award.
+
+Following its traditions, SGP 2024 attributes three best paper awards, a software award recognising the authors of an open-source software that has greatly influenced the field, and a test of time award.
 
 
 ## Best Paper Award
 ![Best paper award](/images/BPA.png)
 
-**"Poisson Manifold Reconstruction - Beyond Co-dimension One"**
+**"1-Lipschitz Neural Distance Fields"**
 
-Maximilian Kohlbrenner, Singchun Lee, Marc Alexa, Misha Kazhdan
+Guillaume Coiffier and Louis Bethune
 
 ## Best Paper Award: Runner up
-![Best paper award_runner_up](/images/BPA-runner.png)
+![Best paper award_runner_up](/images/BPA-runner1.png)
 
-**"BPM: Blended Piecewise Möbius Maps"**
+**"Cascading upper bounds for triangle soup Pompeiu-Hausdorff distance"**
 
-Shir Rorberg, Amir Vaxman, and Mirela Ben-Chen
+Leonardo Sacht and Alec Jacobson
 
-## Best Paper Award:  Honorable mention
-![Best paper award_honorable](/images/BPA-honorable.png)
+## Best Paper Award:  Runner up
+![Best paper award_runner_up](/images/BPA-runner2.png)
 
-**"Singularity-Free Frame Fields for Line Drawing Vectorization"**
+**"Integer-Sheet-Pump Quantization for Hexahedral Meshing"**
 
-Olga Guțan, Shreya Hegde, Erick Jimenez Berumen, Mikhail Bessmeltsev, and Edward Chien
+Hendrik Brückler, David Bommes, and Marcel Campen
 
 
 ## Software Award
@@ -36,18 +35,19 @@ Olga Guțan, Shreya Hegde, Erick Jimenez Berumen, Mikhail Bessmeltsev, and Edwar
 Sponsored by ![gf logo](/images/geometryfactory-logo.png)
 
 
-![Geogram](/images/geogram_banner_2023.png)
+![Cinolib](/images/cinolib.png)
 
-**"[geogram](https://github.com/BrunoLevy/geogram)"**  
-Bruno Levy
+**"[Cinolib](https://github.com/mlivesu/cinolib)"**  
+Marco Livesu
 
 ## Test of Time Award
+![Test of time award](/images/testoftime.png)
 
-**"Discrete Laplace operators: No free lunch"**  
-Max Wardetzky, Saurabh Mathur, Felix Kälberer, Eitan Grinspun
+**"Laplacian Surface Editing"**  
+Olga Sorkine, Daniel Cohen-Or, Yaron Lipman,
+Marc Alexa, Christian Rössl, and Hans-Peter Seidel
 
-_Symposium on Geometry Processing, 2007_
+_Symposium on Geometry Processing, 2004_
 
---->
 
 [Previous awardees.](http://awards.geometryprocessing.org/)
