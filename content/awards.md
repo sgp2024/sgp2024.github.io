@@ -9,21 +9,25 @@ Following its traditions, SGP 2024 attributes three best paper awards, a softwar
 
 
 ## Best Paper Award
-![Best paper award](/images/BPA.png)
+<!--![Best paper award](/images/BPA.png)-->
+{{< responsive-img src="/images/BPA.png" alt="Best paper award" >}}
+
 
 **"1-Lipschitz Neural Distance Fields"**
 
 Guillaume Coiffier and Louis Bethune
 
 ## Best Paper Award: Runner up
-![Best paper award_runner_up](/images/BPA-runner1.png)
+<!--![Best paper award_runner_up](/images/BPA-runner1.png)-->
+{{< responsive-img src="/images/BPA-runner1.png" alt="Best paper award runner up" >}}
 
 **"Cascading upper bounds for triangle soup Pompeiu-Hausdorff distance"**
 
 Leonardo Sacht and Alec Jacobson
 
 ## Best Paper Award:  Runner up
-![Best paper award_runner_up](/images/BPA-runner2.png)
+<!--![Best paper award_runner_up](/images/BPA-runner2.png)-->
+{{< responsive-img src="/images/BPA-runner2.png" alt="Best paper award runner up" >}}
 
 **"Integer-Sheet-Pump Quantization for Hexahedral Meshing"**
 
@@ -35,13 +39,15 @@ Hendrik Brückler, David Bommes, and Marcel Campen
 Sponsored by ![gf logo](/images/geometryfactory-logo.png)
 
 
-![Cinolib](/images/cinolib.png)
+<!--![Cinolib](/images/cinolib.png)-->
+{{< responsive-img src="/images/cinolib.png" alt="Cinolib" >}}
 
 **"[Cinolib](https://github.com/mlivesu/cinolib)"**  
 Marco Livesu
 
 ## Test of Time Award
-![Test of time award](/images/testoftime.png)
+<!--![Test of time award](/images/testoftime.png)-->
+{{< responsive-img src="/images/testoftime.png" alt="Test of time award" >}}
 
 **"Laplacian Surface Editing"**  
 Olga Sorkine, Daniel Cohen-Or, Yaron Lipman,
